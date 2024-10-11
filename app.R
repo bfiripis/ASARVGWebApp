@@ -44,7 +44,6 @@ ui <- fluidPage(
       )
     )
   )
-)
 
 # Define server logic
 server <- function(input, output) {
