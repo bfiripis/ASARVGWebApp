@@ -1,0 +1,832 @@
+﻿Group,Sub Group,Item No.,MBS Item No.,Units,Description,MBS Fee,MBS Units,MBS Fee Note,Note,Has other modifier,Has time modifer
+Anaesthesia / Burns,,CR878,21878,3,"ANAESTHESIA for excision or debridement of burns, with or without skin grafting - where the area of burn involves not more than 3% of total body surface",67.65,3,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR879,21879,5,where the area of burn involves more than 3% but less than 10% of total body surface,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR880,21880,7,where the area of burn involves 10% or more but less than 20% of total body surface,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR881,21881,9,where the area of burn involves 20% or more but less than 30% of total body surface,202.95,9,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR882,21882,11,where the area of burn involves 30% or more but less than 40% of total body surface,248.05,11,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR883,21883,13,where the area of burn involves 40% or more but less than 50% of total body surface,293.15,13,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR884,21884,15,where the area of burn involves 50% or more but less than 60% of total body surface,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR885,21885,17,where the area of burn involves 60% or more but less than 70% of total body surface,383.35,17,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR886,21886,19,where the area of burn involves 70% or more but less than 80% of total body surface,428.45,19,0,,TRUE,TRUE
+Anaesthesia / Burns,,CR887,21887,21,where the area of burn involves 80% or more of total body surface,473.55,21,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Skin/Soft Tissue,CR800,21800,3,"ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the forearm, wrist or hand",67.65,3,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Skin/Soft Tissue,CR810,21810,4,"all procedures on the nerves, muscles, tendons, fascia or bursae of the forearm, wrist or hand",90.2,4,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Forearm/Wrist/Hand,CR820,21820,3,"ANAESTHESIA for all closed procedures on the radius, ulna, wrist, or hand bones*",67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Forearm/Wrist/Hand,CR830,21830,4,"all open procedures on the radius, ulna, wrist, or hand bones unless otherwise specified",90.2,4,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Forearm/Wrist/Hand,CR832,21832,7,total wrist replacement,157.85,7,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Forearm/Wrist/Hand,CR834,21834,4,arthroscopic procedures of the wrist joint,90.2,4,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Forearm/Wrist/Hand,CR860,21860,3,"forearm, wrist, or hand cast application, removal, or repair*",67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Vascular/Microsurgery,CR840,21840,8,"ANAESTHESIA for all procedures on the arteries of the forearm, wrist, or hand unless otherwise specified",180.4,8,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Vascular/Microsurgery,CR842,21842,6,"embolectomy of artery of forearm, wrist or hand",135.3,6,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Vascular/Microsurgery,CR850,21850,4,"all procedures on the veins of the forearm, wrist or hand unless otherwise specified",90.2,4,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Vascular/Microsurgery,CR865,21865,12,"microvascular free tissue flap surgery involving the forearm, wrist or hand",225.5,10,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Vascular/Microsurgery,CR870,21870,15,"microsurgical reimplantation of the forearm, wrist or hand",338.25,15,0,,TRUE,TRUE
+"Anaesthesia / Forearm, Wrist and Hand",Vascular/Microsurgery,CR872,21872,8,microsurgical reimplantation of a finger,180.4,8,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA149,,6,surgery for glaucoma,,,,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA150,,9,"repair of open eye injury, excluding magnetic removal of foreign body but including non-magnetic removal of DEEP foreign body",,,,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA152,,6,"enucleation or evisceration of the eye, or orbital exenteration",,,,,TRUE,TRUE
+Anaesthesia / Head,General,CA100,20100,5,"ANAESTHESIA for all procedures on the skin, subcutaneous tissue, muscles, salivary glands or superficial vessels of the head including biopsy unless otherwise specified",112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,General,CA102,20102,6,plastic repair of cleft lip,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,General,CA104,20104,4,electroconvulsive therapy,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Head,Ears,CA120,20120,5,"ANAESTHESIA for all procedures on external, middle or inner ear, including biopsy unless otherwise specified",112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,Ears,CA124,20124,4,otoscopy,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA140,20140,5,ANAESTHESIA for all procedures on eye unless otherwise specified,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA142,20142,5,lens surgery,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA143,20143,8,retinal surgery,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA144,20144,7,corneal transplant,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA145,20145,7,vitrectomy,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA146,20146,5,biopsy of conjunctiva,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA147,20147,6,squint repair or other operation intrinsically involving extraocular muscles. MBS Item 20147 reads only as 'squint repair'.,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA148,20148,4,ophthalmoscopy,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Head,Eyes,CA156,20192,10,radical surgery involving BOTH the eye and/or its muscles AND orbital bone,225.5,10,0,20192 may apply,TRUE,TRUE
+Anaesthesia / Head,Nose/Sinuses,CA160,20160,6,ANAESTHESIA for all intranasal procedures on nose or accessory sinuses unless otherwise specified,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Nose/Sinuses,CA162,20162,7,intranasal surgery for malignancy or for intranasal ablation,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Head,Nose/Sinuses,CA164,20164,4,"biopsy, soft tissue of nose or accessory sinuses",90.2,4,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-oral,CA170,20170,6,ANAESTHESIA for all intra-oral procedures (including biopsy) unless otherwise specified,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-oral,CA172,20172,7,repair of cleft palate,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-oral,CA174,20174,9,excision of retropharyngeal tumour,202.95,9,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-oral,CA176,20176,10,radical intraoral surgery,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Head,Dental,CA170,22900,6,INITIATION OF MANAGEMENT BY A MEDICAL PRACTITIONER OF ANAESTHESIA for extraction of tooth or teeth with or without incision of soft tissue or removal of bone (6 basic units) Not necessary in ASA RVG - covered by Item CA170,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Dental,CA170,22905,6,INITIATION OF MANAGEMENT BY A MEDICAL PRACTITIONER OF ANAESTHESIA for restorative dental work (6 basic units) Not necessary in ASA RVG - covered by Item CA170,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Facial Bones,CA190,20190,5,ANAESTHESIA for all procedures on facial bones unless otherwise specified,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,Facial Bones,CA192,20192,10,extensive surgery on facial bones including prognathism and extensive facial bone reconstruction,225.5,10,0,"With regard to Item CA192, an “extensive” procedure denotes major facial bone surgery or reconstruction, including major resection; osteotomies or osteectomies of mandibles and/or maxillae; surgery for prognathism; or surgery for Le Fort II or III fractures.",TRUE,TRUE
+Anaesthesia / Head,Intra-cranial,CA210,20210,15,ANAESTHESIA for all intracranial procedures unless otherwise specified,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-cranial,CA212,20212,5,subdural taps,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-cranial,CA214,20214,9,burr holes,202.95,9,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-cranial,CA216,20216,20,intracranial vascular procedures including those for aneurysms and arterio-venous abnormalities,451,20,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-cranial,CA220,20220,10,spinal fluid shunt procedures,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Head,Intra-cranial,CA222,20222,6,ablation of an intracranial nerve,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Head,Miscellaneous,CA225,20225,12,ANAESTHESIA for all cranial bone procedures,270.6,12,0,,TRUE,TRUE
+Anaesthesia / Head,Miscellaneous,CA230,20230,12,microvasular free tissue flap surgery involving the head or face,270.6,12,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Heart,CD580,,20,heart transplant,,,,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Heart,CD582,,20,heart and lung transplant,,,,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Heart,CD584,,8,cadaver harvesting of heart and/or lungs,,,,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Oesophagus,CD500,20500,15,ANAESTHESIA for open procedures on the oesophagus,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD520,20520,6,ANAESTHESIA for all closed chest procedures (including rigid oesophagoscopy or bronchoscopy) unless otherwise specified,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD522,20522,4,needle biopsy of pleura,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD524,20524,4,pneumocentesis,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD526,20526,10,thoracoscopy,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD528,20528,8,mediastinoscopy,180.4,8,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Thoractomy,CD540,20540,13,"ANAESTHESIA for all thoracotomy procedures involving lungs, pleura, diaphragm, or mediastinum unless otherwise specified",293.15,13,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Thoractomy,CD542,20542,15,pulmonary decortication,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Thoractomy,CD546,20546,15,pulmonary resection with thoracoplasty,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Thoractomy,CD548,20548,15,intrathoracic repair of trauma to trachea and bronchi,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Intrathoracic,Heart,CD560,20560,20,"ANAESTHESIA for all open procedures on the heart, pericardium, or great vessels of the chest*",451,20,0,"* The MBS descriptor for item 20560 has the additional wording “or percutaneous insertion of a valvular prosthesis”. ASA item CD570 covers this service, although it currently has no MBS equivalent",TRUE,TRUE
+Anaesthesia / Intrathoracic,Heart,CD565,,20,percutaneous surgical procedures performed on the thoracic aorta,,,,CD565 increased from 15 to 20 1 April 2024,TRUE,TRUE
+Anaesthesia / Intrathoracic,Heart,CD570,,20,percutaneous replacement of a heart valve,,,,CD570 increased from 15 to 20 1 April 2024,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD525,,4,insertion of intercostal catheter and/or drain,,,,CD525 added 1 April 2024,TRUE,TRUE
+Anaesthesia / Intrathoracic,Closed Chest,CD575,,8,percutaneous procedures on the pericardium,,,,CD575 added 1 April 2024,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Skin/Soft Tissue,CL300,21300,3,ANAESTHESIA for all procedures on the skin and subcutaneous tissue of the knee and/or popliteal area,67.65,3,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Skin/Soft Tissue,CL321,21321,4,"all procedures on the nerves, muscles, tendons, fascia or bursae of the knee and/or popliteal area",90.2,4,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Femur (Lower 1/3),CL340,21340,4,ANAESTHESIA for all closed procedures on the lower 1/3 of the femur*,90.2,4,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Femur (Lower 1/3),CL360,21360,5,all open procedures on the lower 1/3 of the femur,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL380,21380,3,ANAESTHESIA for all closed procedures on the knee joint*,67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL382,21382,4,arthroscopic procedures of the knee joint,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL400,21400,4,open procedures on the knee joint unless otherwise specified,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL402,21402,7,knee replacement,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL403,21403,10,bilateral knee replacement,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL404,21404,5,disarticulation of the knee,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Knee,CL420,21420,3,"all cast applications, removal, or repair involving the knee joint*",67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Tibia/Fibula (Proximal),CL390,21390,3,"ANAESTHESIA for all closed procedures on the upper ends of the tibia, fibula, and/or patella*",67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Tibia/Fibula (Proximal),CL392,21392,4,"all open procedures on the upper ends of the tibia, fibula and/or patella",90.2,4,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Vascular/Microsurgery,CL430,21430,4,ANAESTHESIA for all procedures on the veins of the knee or popliteal area unless otherwise specified,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Vascular/Microsurgery,CL432,21432,5,repair of arteriovenous fistula of knee or popliteal area,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Vascular/Microsurgery,CL440,21440,8,all procedures on the arteries of the knee or popliteal area unless otherwise specified,180.4,8,0,,TRUE,TRUE
+Anaesthesia / Knee and Popliteal Area,Vascular/Microsurgery,CL445,21445,12,microvascular free tissue flap surgery involving the knee and/or popliteal area,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Skin/Soft Tissue,CG801,,6,"radical abdominoplasty involving abdominal lipectomy, repair of musculoaponeurotic layer and transposition of umbilicus",,,,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Skin/Soft Tissue,CG800,20800,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the lower abdominal wall unless otherwise specified,67.65,3,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Skin/Soft Tissue,CG802,20802,5,lipectomy in the lower abdomen,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Skin/Soft Tissue,CG803,20803,4,"all procedures on the nerves, muscles, tendons or fascia of the lower abdominal wall (with the exception of lower abdominal lipectomy)",90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Skin/Soft Tissue,,20820,,"INITIATION OF MANAGEMENT OF ANAESTHESIA for procedures on the skin, its derivatives or subcutaneous tissue of the lower posterior abdominal wall (5 basic units) Not necessary in ASA RVG due to modifier for prone position.",112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Laparoscopy,CG806,20806,7,laparoscopic procedures in the lower abdomen,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Endoscopy,CG810,20810,4,ANAESTHESIA for all lower intestinal endoscopic procedures (modifier for prone position is not applicable),90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Hernias,CG830,20830,4,ANAESTHESIA for all hernia repairs in the lower abdomen unless otherwise specified,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Hernias,CG832,20832,6,repair of incisional hernia and/or wound dehiscence,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Intraperitoneal,CG840,20840,6,"ANAESTHESIA for all open procedures within the lower abdominal peritoneal cavity, (including appendicectomy) unless otherwise specified",135.3,6,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Intraperitoneal,CG841,20841,8,"bowel resection, (including laparoscopic bowel resection), unless otherwise specified",180.4,8,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Intraperitoneal,CG844,20844,10,"abdominoperineal resection, including pull through procedures, ultra low anterior resection and formation of bowel reservoir",225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Obstetrics/Gynaecology,CG842,20842,4,ANAESTHESIA for amniocentesis,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Obstetrics/Gynaecology,CG846,20846,10,radical hysterectomy,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Obstetrics/Gynaecology,CG847,20847,10,radical ovarian surgery,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Obstetrics/Gynaecology,CG848,20848,10,pelvic exenteration,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Obstetrics/Gynaecology,CG850,20850,12,Caesarean section*,270.6,12,0,"*ASA RVG modifier P7 is already included within items CG850, CG855, CH946, CH960 and should not be concurrently claimed CV850 increased from 10 to 12 units 1 April 2024.",TRUE,TRUE
+Anaesthesia / Lower Abdomen,Obstetrics/Gynaecology,CG855,20855,15,Caesarean hysterectomy or hysterectomy within 72 hours of birth*,338.25,15,0,"* The Departments of Health and Human Services have changed the descriptors for a number of MBS items, to read ’birth‘ rather than ’delivery‘
+
+*ASA RVG modifier P7 is already included within items CG850, CG855, CH946, CH954 and should not be concurrently claimed CV855 description amended 1 April 2024.",TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG845,20845,10,ANAESTHESIA for radical prostatectomy,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG860,20860,6,"all extraperitoneal procedures in the lower abdomen, (including urinary tract) unless otherwise specified",135.3,6,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG862,20862,7,"renal procedures, including upper 1/3 or ureter",157.85,7,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG863,20863,10,nephrectomy,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG864,20864,10,total cystectomy,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG866,20866,10,adrenalectomy,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG867,20867,10,"neuro-endocrine tumour removal, e.g. carcinoid",225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG868,20868,10,renal transplant (donor or recipient),225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Extraperitoneal/Urology,CG815,20815,6,extracorporeal shock wave lithotripsy,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Vascular/Microsurgery,CG804,20804,12,ANAESTHESIA for microvascular free tissue flap surgery involving the anterior or posterior lower abdomen,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Vascular/Microsurgery,CG880,20880,15,all procedures on major lower abdominal blood vessels unless otherwise specified,338.25,15,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Vascular/Microsurgery,CG882,20882,10,inferior vena cava ligation,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Vascular/Microsurgery,CG884,20884,5,percutaneous umbrella insertion,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Abdomen,Miscellaneous,CG886,20886,6,ANAESTHESIA for percutaneous procedures on an intra-abdominal organ in the lower abdomen,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Skin/Soft Tissue,CM460,21460,3,"ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the lower leg, ankle or foot",67.65,3,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Skin/Soft Tissue,CM461,21461,4,"all procedures on the nerves, muscles, tendons, or fascia of the lower leg, ankle or foot unless otherwise specified",90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Skin/Soft Tissue,CM474,21474,5,gastrocnemius recession,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Skin/Soft Tissue,,21472,5,INITIATION OF MANAGEMENT OF ANAESTHESIA for repair of Achilles tendon (5 basic units) Not necessary in ASA RVG due to modifier for prone position.,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM462,21462,3,"ANAESTHESIA for all closed procedures on the lower leg, ankle or foot",67.65,3,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM464,21464,4,arthroscopic procedures of the ankle joint,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM480,21480,4,"all open procedures on the bones of the lower leg, ankle or foot, (including amputation), unless otherwise specified",90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM482,21482,5,"radical resection of bone involving lower leg, ankle or foot",112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM484,21484,5,osteotomy or osteoplasty of the tibia and fibula,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM486,21486,7,total ankle replacement,157.85,7,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Foot/Leg/Ankle,CM490,21490,3,"lower leg cast application, removal or repair*",67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM500,21500,8,"ANAESTHESIA for all procedures on the arteries of the lower leg, (including bypass graft) unless otherwise specified",180.4,8,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM502,21502,6,embolectomy of the lower leg,135.3,6,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM520,21520,4,all procedures on the veins of the lower leg unless otherwise specified,90.2,4,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM522,21522,5,venous thrombectomy of the lower leg,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM530,21530,15,"microsurgical reimplantation of the lower leg, ankle or foot",338.25,15,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM532,21532,8,microsurgical reimplantation of a toe,180.4,8,0,,TRUE,TRUE
+Anaesthesia / Lower Leg (below Knee),Vascular/Microsurgery,CM535,21535,12,microvascular free tissue flap surgery involving the lower leg,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB300,20300,5,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the neck unless otherwise specified,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB305,20305,15,"incision and drainage of large haematoma, large abscess, cellulitis, or similar lesion or epiglottitis causing life threatening airway obstruction",338.25,15,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB320,20320,6,"all procedures on oesophagus, thyroid, larynx, trachea, lymphatic system, muscles, nerves or other deep tissues of the neck unless otherwise specified",135.3,6,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB321,20321,10,"laryngectomy, hemilaryngectomy, laryngopharyngectomy or pharyngectomy",225.5,10,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB330,20330,8,laser surgery to the airway (MBS Item 20330 specifically excludes laser surgery to the nose and mouth),180.4,8,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB350,20350,10,all procedures on major vessels of neck unless otherwise specified,225.5,10,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB352,20352,5,simple ligation,112.75,5,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB355,20355,12,microvascular free tissue flap surgery involving the neck,270.6,12,0,,TRUE,TRUE
+Anaesthesia / Neck,Neck,CB310,,15,Emergency airway management in a patient with a known difficult and or threatened airway,,,,CB310 added 1 April 2024,,
+Anaesthesia / Pelvis (except Hip),Skin/Soft Tissue,CJ100,21100,3,ANAESTHESIA for all procedures on the skin and subcutaneous tissue of the pelvic region except external genitalia,67.65,3,0,"*ASA RVG modifier P7 is already included within items CG850, CG855, CH946, CH954,CH960 and should not be concurrently claimed 1 April 2024.",TRUE,
+Anaesthesia / Pelvis (except Hip),Skin/Soft Tissue,,21110,5,"INITIATION OF MANAGEMENT OF ANAESTHESIA for procedures on the skin, its derivatives or subcutaneous tissue of the pelvic region (posterior to iliac crest), except perineum (5 basic units) Not necessary in ASA RVG due to modifier for prone position.",112.75,5,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ112,21112,4,ANAESTHESIA for percutaneous bone marrow biopsy of the anterior iliac crest,90.2,4,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ114,21114,5,percutaneous bone marrow biopsy of the posterior iliac crest,112.75,5,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ116,21116,6,percutaneous bone marrow harvesting from the pelvis,135.3,6,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ120,21120,6,procedures on bony pelvis,135.3,6,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ130,21130,3,body cast application or revision*,67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ140,21140,15,interpelviabdominal (hind quarter) amputation,338.25,15,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ160,21160,4,closed procedures involving the symphysis pubis or sacroiliac joint*,90.2,4,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Pelvis (except Hip),Skeletal,CJ170,21170,8,open procedures involving the symphysis pubis or the sacroiliac joint,180.4,8,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Vascular/Microsurgery,CJ155,21155,12,ANAESTHESIA for microvascular free tissue flap surgery involving the anterior or posterior pelvis,225.5,10,0,,TRUE,
+Anaesthesia / Pelvis (except Hip),Miscellaneous,CJ150,21150,10,"ANAESTHESIA for radical procedures for tumour of the pelvis, except hind quarter amputation",225.5,10,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH925,,4,procedures on the cord and/or testes unless otherwise specified,,,,,TRUE,
+Anaesthesia / Perineum,Skin/Soft Tissue,CH900,20900,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the perineum unless otherwise specified,67.65,3,0,,TRUE,
+Anaesthesia / Perineum,Skin/Soft Tissue,CH902,20902,4,"anorectal procedure (including endoscopy and/or biopsy), but not banding of haemorrhoids)*",90.2,4,0,* MBS item 20902 excludes 'banding of haemorrhoids',TRUE,
+Anaesthesia / Perineum,Skin/Soft Tissue,CH903,,5,percutaneous perineal procedures on an intra-pelvic organ,,,,CH903 increased from 4 to 5 units 1 April 2024,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH904,20904,7,ANAESTHESIA for radical perineal procedures including radical perineal prostatectomy or radical vulvectomy,157.85,7,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH920,20920,4,all procedures on external genitalia unless otherwise specified,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH924,20924,4,"undescended testis, unilateral or bilateral",90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH926,20926,4,"radical orchidectomy, inguinal approach",90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH928,20928,6,"radical orchidectomy, abdominal approach",135.3,6,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH930,20930,4,"orchiopexy, unilateral or bilateral",90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH932,20932,4,complete amputation of the penis,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH934,20934,6,complete amputation of the penis with bilateral inguinal lymphadenectomy,135.3,6,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH936,20936,8,complete amputation of the penis with bilateral inguinal and iliac lymphadenectomy,180.4,8,0,,TRUE,
+Anaesthesia / Perineum,Male Genitalia,CH938,20938,4,insertion of penile prosthesis,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH904,20904,7,"ANAESTHESIA for radical perineal procedure, including radical perineal prostatectomy or radical vulvectomy",157.85,7,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH906,20906,4,vulvectomy,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH940,20940,4,"per vaginal and vaginal procedures (including biopsy of vagina, cervix or endometrium) unless otherwise specified",90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH942,20942,5,"vaginal procedures, including repair operations and urinary incontinence procedures (perineal)",112.75,5,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH943,20943,4,transvaginal assisted reproductive services,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH944,20944,6,vaginal hysterectomy,135.3,6,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH946,20946,8,vaginal birth*,180.4,8,0,"* The Departments of Health and Human Services have changed the descriptors for a number of MBS items, to read ’birth‘ rather than ’delivery‘*
+
+*ASA RVG modifier P7 is already included within items CG850, CG855, CH946, CH954 and should not be concurrently claimed CH946 increased from 6 to 8 units 1 April 2024.",TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH948,20948,4,"purse string ligation of cervix, or removal of purse string ligature",90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH950,20950,5,culdoscopy,112.75,5,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH952,20952,4,hysteroscopy,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH954,20954,8,correction of inverted uterus (ASA RVG has modifier P7),225.5,10,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH956,20956,4,"evacuation of retained products of conception, as a complication of confinement",90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH958,20958,5,manual removal of retained placenta or for repair of vaginal or perineal tear following birth*,112.75,5,0,"* The Departments of Health and Human Services have changed the descriptors for a number of MBS items, to read ’birth‘ rather than ’delivery‘",TRUE,
+Anaesthesia / Perineum,Obstetrics/Gynaecology,CH960,20960,7,vaginal procedures in the management of post partum haemorrhage (blood loss > 500ml)*,157.85,7,0,"*ASA RVG modifier P7 is already included within items CG850, CG855, CH946, CH954 and should not be concurrently claimed CH946 increased from 6 to 8 units 1 April 2024.",TRUE,
+Anaesthesia / Perineum,Transurethral,CH910,20910,4,ANAESTHESIA for all transurethral procedures (including urethrocystoscopy) unless otherwise specified,90.2,4,0,,TRUE,
+Anaesthesia / Perineum,Transurethral,CH911,20911,5,endoscopic ureteric surgery including laser procedures,112.75,5,0,,TRUE,
+Anaesthesia / Perineum,Transurethral,CH912,20912,5,transurethral resection of bladder tumour(s),112.75,5,0,,TRUE,
+Anaesthesia / Perineum,Transurethral,CH914,20914,7,transurethral resection of prostate,157.85,7,0,,TRUE,
+Anaesthesia / Perineum,Transurethral,CH916,20916,7,post-transurethral resection bleeding,157.85,7,0,,TRUE,
+Anaesthesia / Perineum,Vascular/Microsurgery,CH905,20905,12,ANAESTHESIA for microvascular free tissue flap surgery involving the perineum,225.5,10,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Skin/Soft Tissue,CN600,21600,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the shoulder or axilla,67.65,3,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Skin/Soft Tissue,CN610,21610,5,"all procedures on the nerves, muscles, tendons, fascia or bursae of the shoulder or axilla, including axillary dissection",112.75,5,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN620,21620,4,"ANAESTHESIA for all closed procedures on the humeral head and neck, sternoclavicular joint, acromioclavicular joint or the shoulder joint*",90.2,4,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN622,21622,5,all arthroscopic procedures of the shoulder joint,112.75,5,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN630,21630,5,"all open procedures on the humeral head and neck, sternoclavicular joint, acromioclavicular joint or the shoulder joint unless otherwise specified",112.75,5,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN632,21632,6,"radical resection involving humeral head and neck, sternoclavicular joint, acromioclavicular joint or shoulder joint",135.3,6,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN634,21634,9,shoulder disarticulation,202.95,9,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN636,21636,15,interthoracoscapular (forequarter) amputation,338.25,15,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN638,21638,10,total shoulder replacement,225.5,10,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN680,21680,3,"shoulder cast application, removal or repair unless otherwise specified*",67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Shoulder and Axilla,Shoulder,CN682,21682,4,shoulder spica application*,90.2,4,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Shoulder and Axilla,Vascular/Microsurgery,CN650,21650,8,ANAESTHESIA for all procedures on the arteries of the shoulder or axilla unless otherwise specified,180.4,8,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Vascular/Microsurgery,CN652,21652,10,procedures for axillary-brachial aneurysm,225.5,10,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Vascular/Microsurgery,CN654,21654,8,bypass graft of arteries of shoulder or axilla,180.4,8,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Vascular/Microsurgery,CN656,21656,10,axillary-femoral bypass graft,225.5,10,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Vascular/Microsurgery,CN670,21670,4,all procedures on the veins of the shoulder or axilla,90.2,4,0,,TRUE,
+Anaesthesia / Shoulder and Axilla,Vascular/Microsurgery,CN685,21685,12,microvascular free tissue flap surgery involving the shoulder or the axilla,225.5,10,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Cervical,CE600,20600,10,ANAESTHESIA for all procedures on the cervical spine and/or cord unless otherwise specified (for myelography and discography see Items CS908 and CS914),225.5,10,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Cervical,CE604,20604,13,posterior cervical laminectomy with the patient in the sitting position,293.15,13,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Thoracic,CE620,20620,10,ANAESTHESIA for all procedures on the thoracic spine and/or cord unless otherwise specified (for myelography and discography see Items CS906 and CS912),225.5,10,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Thoracic,CE622,20622,13,thoracolumbar sympathectomy,293.15,13,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Lumbar,CE630,20630,8,ANAESTHESIA for all procedures in the lumbar region unless otherwise specified (for myelography and discography see Items CS906 and CS912),180.4,8,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Lumbar,CE632,20632,7,lumbar sympathectomy,157.85,7,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Lumbar,CE634,20634,10,chemonucleolysis,225.5,10,0,,TRUE,
+Anaesthesia / Spine and Spinal Cord,Miscellaneous,CE670,20670,13,ANAESTHESIA for extensive spine and spinal cord procedures,293.15,13,0,2 or more levels of the spine or spinal cord.,TRUE,
+Anaesthesia / Spine and Spinal Cord,Miscellaneous,CE680,20680,3,manipulation of spine*,67.65,3,0,"The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other 'closed' procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Spine and Spinal Cord,Miscellaneous,CE690,20690,5,percutaneous spinal procedures,112.75,5,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skin/Soft Tissue,CC415,,4,"For all procedures on the nerves, muscles or other deep tissues of the chest wall unless otherwise specified",,,,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skin/Soft Tissue,CC400,20400,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the chest wall unless otherwise specified,67.65,3,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skin/Soft Tissue,,20420,5,"INITIATION OF MANAGEMENT OF ANAESTHESIA for procedures on the skin or subcutaneous tissue of the posterior part of the chest, not being a service to which another item in this subgroup applies (5 basic units) Not necessary in the ASA RVG due to modifier for prone position",112.75,5,0,,FALSE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Breast,CC401,20401,4,ANAESTHESIA for procedures on the breast unless otherwise specified,90.2,4,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Breast,CC402,20402,5,reconstructive procedures on the breast including implant reconstruction and exchange,112.75,5,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Breast,CC403,20403,5,Axillary dissection or sentinel node biopsy,112.75,5,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Breast,CC404,20404,6,mastectomy,135.3,6,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Breast,CC405,20405,8,reconstructive procedures on the breast using myocutaneous flaps,180.4,8,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Breast,CC406,20406,13,radical or modified radical procedures on breast with internal mammary node dissection,293.15,13,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC440,20440,4,ANAESTHESIA for percutaneous bone marrow biopsy of the sternum,90.2,4,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC450,20450,5,"all procedures on the clavicle, scapula or sternum unless otherwise specified",112.75,5,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC452,20452,6,"radical surgery on clavicle, scapula or sternum",135.3,6,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC470,20470,6,partial rib resection unless otherwise specified,135.3,6,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC472,20472,10,thoracoplasty,225.5,10,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC474,20474,13,extensive procedures (e.g. Pectus excavatum),293.15,13,0,"With regard to Item CC474, “extensive” refers to major reconstructive surgery such as pectus excavatum repair or similar.",TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Vascular/Microsurgery,CC475,20475,12,ANAESTHESIA for microvascular free tissue flap surgery involving the anterior or posterior thorax,225.5,10,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Miscellaneous,CC410,20410,4,ANAESTHESIA for electrical conversion of arrhythmias,90.2,4,0,,TRUE,
+Anaesthesia / Thorax (Chest Wall and Shoulder Girdle),Skeletal,CC471,,6,ANAESTHESIA for fixation of fractured ribs,,,,CC471 added 1 April 2024,TRUE,
+Anaesthesia / Upper Abdomen,Endoscopy,CF742,,6,upper gastrointestinal procedures in association with imaging techniques including fluoroscopy and ultrasound,,,,,TRUE,
+Anaesthesia / Upper Abdomen,Skin/Soft Tissue,CF700,20700,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the upper abdominal wall unless otherwise specified,67.65,3,0,,TRUE,
+Anaesthesia / Upper Abdomen,Skin/Soft Tissue,CF703,20703,4,"procedures on the nerves, muscles, tendons and fascia of the upper abdominal wall",90.2,4,0,,TRUE,
+Anaesthesia / Upper Abdomen,Endoscopy,CF743,,7,"surgical procedures on structures or organs lying outside of the lumen of the gastrointestinal tract, performed via gastrointestinal endoscopy",,,,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF796,,30,liver transplant (recipient),,,,,TRUE,
+Anaesthesia / Upper Abdomen,Skin/Soft Tissue,,20730,5,"INITIATION OF MANAGEMENT OF ANAESTHESIA for procedures on the skin or subcutaneous tissue of the upper posterior abdominal wall, not being a service to which another item in this sub-group applies (5 basic units) Not necessary in ASA RVG due to modifier for prone position.",112.75,5,0,,FALSE,
+Anaesthesia / Upper Abdomen,Laparoscopy,CF706,20706,7,"laparoscopic procedures in the upper abdomen, including laparoscopic cholecystectomy, unless otherwise specified",157.85,7,0,,TRUE,
+Anaesthesia / Upper Abdomen,Endoscopy,CF740,20740,5,ANAESTHESIA for upper gastrointestinal endoscopic procedures,112.75,5,0,,TRUE,
+Anaesthesia / Upper Abdomen,Miscellaneous,CF715,,6,ANAESTHESIA for extracorporeal shock wave lithotripsy (see also CG815/20815),,,,,TRUE,
+Anaesthesia / Upper Abdomen,Endoscopy,CF745,20745,7,For any of the following: a) upper gastrointestinal endoscopic procedures in association with acute gastrointestinal haemorrhage b) endoscopic retrograde cholangiopancreatography c) upper gastrointestinal endoscopic ultrasound d) percutaneous endoscopic gastrostomy e) upper gastrointestinal endoscopic mucosal resection of tumour,157.85,7,0,,TRUE,
+Anaesthesia / Upper Abdomen,Hernias,CF750,20750,5,ANAESTHESIA for all hernia repairs to the upper abdominal wall unless otherwise specified,112.75,5,0,,TRUE,
+Anaesthesia / Upper Abdomen,Hernias,CF752,20752,6,repair of incisional hernia and/or wound dehiscence,135.3,6,0,,TRUE,
+Anaesthesia / Upper Abdomen,Hernias,CF754,20754,7,procedures on an omphalocele,157.85,7,0,,TRUE,
+Anaesthesia / Upper Abdomen,Hernias,CF756,20756,9,transabdominal repair of diaphragmatic hernia,202.95,9,0,,TRUE,
+Anaesthesia / Upper Abdomen,Vascular/Microsurgery,CF704,20704,12,ANAESTHESIA for microvascular free tissue flap surgery involving the anterior or posterior upper abdomen,225.5,10,0,,TRUE,
+Anaesthesia / Upper Abdomen,Vascular/Microsurgery,CF770,20770,15,all procedures on major upper abdominal blood vessels,338.25,15,0,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF790,20790,8,"ANAESTHESIA for procedures within the peritoneal cavity in the upper abdomen, including any of the following: a) open cholecystectomy b) gastrectomy, c) laparoscopically assisted nephrectomy d) bowel shunts",180.4,8,0,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF791,20791,10,bariatric surgery in a patient with clinically severe obesity,225.5,10,0,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF792,20792,13,partial hepatectomy (excluding liver biopsy),293.15,13,0,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF793,20793,15,extended or trisegmental hepatectomy,338.25,15,0,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF794,20794,12,"pancreatectomy, partial or total (e.g. Whipple procedure)",270.6,12,0,,TRUE,
+Anaesthesia / Upper Abdomen,Intraperitoneal,CF798,20798,10,neuro-endocrine tumour removal in the upper abdomen (e.g. carcinoid),225.5,10,0,,TRUE,
+Anaesthesia / Upper Abdomen,Miscellaneous,CF799,20799,6,percutaneous procedures on an intra-abdominal organ in the upper abdomen,135.3,6,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Skin/Soft Tissue,CQ700,21700,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the upper arm or elbow,67.65,3,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Skin/Soft Tissue,CQ710,21710,4,"all procedures on the nerves, muscles, tendons, fascia or bursae of the upper arm or elbow unless otherwise specified",90.2,4,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Skin/Soft Tissue,CQ712,21712,5,open tenotomy of the upper arm or elbow,112.75,5,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Skin/Soft Tissue,CQ714,21714,5,tenoplasty of the upper arm or elbow,112.75,5,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Skin/Soft Tissue,CQ716,21716,5,"tenodesis, rupture of long tendon of biceps",112.75,5,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Upper Arm/Elbow,CQ730,21730,3,ANAESTHESIA for all closed procedures on the upper arm or elbow*,67.65,3,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Upper Arm and Elbow,Upper Arm/Elbow,CQ732,21732,4,arthroscopic procedures of the elbow joint,90.2,4,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Upper Arm/Elbow,CQ740,21740,5,open procedures on the upper arm or elbow unless otherwise specified,112.75,5,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Upper Arm/Elbow,CQ756,21756,6,radical procedures on the upper arm or elbow,135.3,6,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Upper Arm/Elbow,CQ760,21760,7,total elbow replacement,157.85,7,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Vascular/Microsurgery,CQ770,21770,8,ANAESTHESIA for all procedures on the arteries of the upper arm unless otherwise specified,180.4,8,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Vascular/Microsurgery,CQ772,21772,6,embolectomy of arteries of the upper arm,135.3,6,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Vascular/Microsurgery,CQ780,21780,4,all procedures on the veins of the upper arm unless otherwise specified,90.2,4,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Vascular/Microsurgery,CQ785,21785,12,microvascular free tissue flap surgery involving the upper arm or elbow,225.5,10,0,,TRUE,
+Anaesthesia / Upper Arm and Elbow,Vascular/Microsurgery,CQ790,21790,15,microsurgical reimplantation of the upper arm,338.25,15,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Skin/Soft Tissue,CK195,21195,3,ANAESTHESIA for all procedures on the skin or subcutaneous tissue of the upper leg,67.65,3,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Skin/Soft Tissue,CK199,21199,4,"all procedures on the nerves, muscles, tendons, fascia, or bursae of the upper leg",90.2,4,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK200,21200,4,ANAESTHESIA for all closed procedures involving the hip joint*,90.2,4,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK202,21202,4,arthroscopic procedures of the hip joint,90.2,4,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK210,21210,6,open procedures involving the hip joint unless otherwise specified,135.3,6,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK212,21212,10,hip disarticulation,225.5,10,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK214,21214,10,Primary total hip replacement,225.5,10,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK215,21215,15,Revision total hip replacement,338.25,15,0,,FALSE,
+Anaesthesia / Upper Leg (except Knee),Hip,CK216,21216,14,bilateral total hip replacement,315.7,14,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Femur (Upper 2/3),CK220,21220,4,ANAESTHESIA for all closed procedures involving the upper 2/3 of the femur*,90.2,4,0,"* The MBS descriptor includes the requirement that this procedure be performed in the operating theatre of a hospital or day hospital facility. This is also the case with a number of other ‘closed’ procedures. The ASA recognises that anaesthesia for such procedures can be performed outside of hospital facilities, provided the relevant ANZCA guidelines are met, but members should note that no Medicare or private insurance benefit will be payable in these circumstances",TRUE,
+Anaesthesia / Upper Leg (except Knee),Femur (Upper 2/3),CK230,21230,6,all open procedures involving the upper 2/3 of the femur unless otherwise specified,135.3,6,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Femur (Upper 2/3),CK232,21232,5,above knee amputation,112.75,5,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Femur (Upper 2/3),CK234,21234,8,radical resection of upper 2/3 of the femur,180.4,8,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Vascular/Microsurgery,CK260,21260,4,"ANAESTHESIA for all procedures involving the veins of the upper leg, including exploration",90.2,4,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Vascular/Microsurgery,CK270,21270,8,all procedures involving the arteries of the upper leg (including bypass graft) unless otherwise specified,180.4,8,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Vascular/Microsurgery,CK272,21272,4,femoral artery ligation,90.2,4,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Vascular/Microsurgery,CK274,21274,6,"femoral artery embolectomy (for grafts involving intra-abdominal vessels, see Item CG880)",135.3,6,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Vascular/Microsurgery,CK275,21275,12,microvascular free tissue flap surgery involving the upper leg,225.5,10,0,,TRUE,
+Anaesthesia / Upper Leg (except Knee),Vascular/Microsurgery,CK280,21280,15,microsurgical reimplantation of the upper leg,338.25,15,0,,TRUE,
+Consultations / Emergency Attendances,,CA060,160,6,"PROFESSIONAL ATTENDANCE ON A PATIENT IN IMMINENT DANGER OF DEATH requiring continuous lifesaving emergency treatment by an anaesthetist, to the exclusion of all other patients.* MBS 160 - $243.85 MBS 161 - $406.35 MBS 162 - $568.65 MBS 163 - $731.50 MBS 164 - $812.75",252.4,0,0,"*The ASA item for an attendance on a patient in imminent danger of death is CA060. An RVG time item applies in addition to this item. The MBS has a series of time-based items for this type of attendance. Item 160* applies if the attendance is of one to two hours in duration, and items 161 to 164* apply for longer attendances, with each subsequent item being for the next hourly period.",TRUE,
+Consultations / Emergency Attendances,,CA060,161,6,"PROFESSIONAL ATTENDANCE ON A PATIENT IN IMMINENT DANGER OF DEATH requiring continuous lifesaving emergency treatment by an anaesthetist, to the exclusion of all other patients.* MBS 160 - $243.85 MBS 161 - $406.35 MBS 162 - $568.65 MBS 163 - $731.50 MBS 164 - $812.75",420.55,0,0,"*The ASA item for an attendance on a patient in imminent danger of death is CA060. An RVG time item applies in addition to this item. The MBS has a series of time-based items for this type of attendance. Item 160* applies if the attendance is of one to two hours in duration, and items 161 to 164* apply for longer attendances, with each subsequent item being for the next hourly period.",TRUE,
+Consultations / Emergency Attendances,,CA060,162,6,"PROFESSIONAL ATTENDANCE ON A PATIENT IN IMMINENT DANGER OF DEATH requiring continuous lifesaving emergency treatment by an anaesthetist, to the exclusion of all other patients.* MBS 160 - $243.85 MBS 161 - $406.35 MBS 162 - $568.65 MBS 163 - $731.50 MBS 164 - $812.75",588.55,0,0,"*The ASA item for an attendance on a patient in imminent danger of death is CA060. An RVG time item applies in addition to this item. The MBS has a series of time-based items for this type of attendance. Item 160* applies if the attendance is of one to two hours in duration, and items 161 to 164* apply for longer attendances, with each subsequent item being for the next hourly period.",TRUE,
+Consultations / Emergency Attendances,,CA060,163,6,"PROFESSIONAL ATTENDANCE ON A PATIENT IN IMMINENT DANGER OF DEATH requiring continuous lifesaving emergency treatment by an anaesthetist, to the exclusion of all other patients.* MBS 160 - $243.85 MBS 161 - $406.35 MBS 162 - $568.65 MBS 163 - $731.50 MBS 164 - $812.75",757.1,0,0,"*The ASA item for an attendance on a patient in imminent danger of death is CA060. An RVG time item applies in addition to this item. The MBS has a series of time-based items for this type of attendance. Item 160* applies if the attendance is of one to two hours in duration, and items 161 to 164* apply for longer attendances, with each subsequent item being for the next hourly period.",TRUE,
+Consultations / Emergency Attendances,,CA060,164,6,"PROFESSIONAL ATTENDANCE ON A PATIENT IN IMMINENT DANGER OF DEATH requiring continuous lifesaving emergency treatment by an anaesthetist, to the exclusion of all other patients.* MBS 160 - $243.85 MBS 161 - $406.35 MBS 162 - $568.65 MBS 163 - $731.50 MBS 164 - $812.75",841.2,0,0,"*The ASA item for an attendance on a patient in imminent danger of death is CA060. An RVG time item applies in addition to this item. The MBS has a series of time-based items for this type of attendance. Item 160* applies if the attendance is of one to two hours in duration, and items 161 to 164* apply for longer attendances, with each subsequent item being for the next hourly period.",TRUE,
+Consultations / Emergency Attendances,,CA051,,6,"AFTER-HOURS, professional attendance where the patient’s condition requires immediate attendance in the after-hours period, being the period after 6 pm and before 8 am on any weekday, or at any time on a Saturday, a Sunday or a public holiday (no after-hours loading applies to this item)",,,,Nil,FALSE,
+Consultations / Emergency Attendances,,CA070,,4,"CALL BACK from home, office or other distant location of an anaesthetist for the provision of emergency services. This Item is separate from and additional to any service provided by the anaesthetist, including consultations (no after-hours loading applies to this item)",,,,"For call-backs at any time from home, the office or another distant location, Item CA070 is applicable. This item provides a travel allowance. This is additional to any other service provided, including consultations. This item has no equivalent in the MBS.",FALSE,
+Consultations / Emergency Attendances,,CA080,,4,"ANAESTHESIA CONSULTANCY for patient retrievals, hospital inspections, expert opinions and medico-legal work, including review, preparation, attendance, travelling time, writing of reports etc... (no after-hours loading applies to this item). Note: any disbursements for medicolegal work eg. accommodation and travel charges, are separate from, and additional to, this item",,,,"Item CA080 is intended to cover anaesthesia consultancy, e.g. for patient retrievals, expert opinions or medicolegal work. In some regions there is a separate suggested schedule for fees for court appearances. Members should contact their state AMA branch for further information.",TRUE,
+Consultations / Emergency Attendances,,CA085,,10,"PATIENT TRANSFER, excluding intra-hospital transfer, where continuous specialist attendance is required.",,,,"Item CA085 is intended to cover services such as the retrieval of a critically ill patient from a distant location. It can be used in addition to items for diagnostic and therapeutic services, should procedures such as endotracheal intubation, vascular cannulation or invasive pressure monitoring be required. Time units do not apply until the anaesthetist is actually in the presence of the patient. However, the use of Item CA080 to cover preparation for the transfer and travel time to the patient’s location is appropriate.",TRUE,
+Consultations / Emergency Attendances,,CA086,,6,"PATIENT TRANSFER, intra-hospital, where continuous specialist attendance is required.",,,,"Item CA086 is intended to cover services such as the transfer of a critically ill or anaesthetised patient between different locations in the same hospital (other than routine transfer, e.g. from theatre to recovery). Again, additional items for diagnostic and therapeutic procedures may apply.",TRUE,
+Consultations / Other Consultations and Attendances (MBS),,CA045,,2,POST ANAESTHESIA PATIENT CARE following a DAY PROCEDURE,,,,"No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Other Consultations and Attendances (MBS),,,17680,-,"A consultation immediately prior to the institution of a major regional blockade in a patient in labour, where no previous anaesthesia consultation has occurred",98.95,0,0,"No after-hours loading (e.g. M4, 25025) applies to these items.",FALSE,
+Consultations / Other Consultations and Attendances (MBS),,,17690,-,Where a pre-anaesthesia consultation covered by an item in the range 17615-17625 is performed in-rooms if a) the service is provided to a patient prior to an admitted patient episode of care involving anaesthesia; and b) the service is not provided to an admitted patient of a hospital; and c) the service is not provided on the day of admission to hospital for the subsequent episode of care involving anaesthesia services; and d) the service is of more than 15 minutes duration,45.7,0,0,"No after-hours loading (e.g. M4, 25025) applies to these items.",FALSE,
+Consultations / Pre-Anaesthesia Consultations and Attendances (MBS),,CA002,17610,2,"ANAESTHETIST, PREANAESTHESIA CONSULTATION, professional attendance by a medical practitioner in the practice of ANAESTHESIA - a BRIEF consultation involving a targeted history and limited examination (including the cardiorespiratory system) and of not more than 15 minutes duration",49.75,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Pre-Anaesthesia Consultations and Attendances (MBS),,CA004,17615,4,"a consultation on a patient undergoing advanced surgery or who has complex medical problems, involving a selective history and an extensive examination of multiple systems, and the formulation of a written patient management plan documented in the patient notes - AND of more than 15 minutes but not more than 30 minutes duration",98.95,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Pre-Anaesthesia Consultations and Attendances (MBS),,CA006,17620,6,"a consultation on a patient undergoing advanced surgery or who has complex medical problems, involving a detailed history and comprehensive examination of multiple systems and the formulation of a written patient management plan documented in the patient notes - AND of more than 30 minutes but not more than 45 minutes duration",137.05,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Pre-Anaesthesia Consultations and Attendances (MBS),,CA008,17625,8,"A consultation on a patient undergoing advanced surgery or who has complex medical problems, involving an exhaustive history and comprehensive examination of multiple systems, the formulation of a written patient management plan following discussion with relevant healthcare professionals and/or the patient, involving medical planning of high complexity documented in the patient notes - AND of more than 45 minutes duration",174.5,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Referred Attendances,,CA002,17640,2,"ANAESTHETIST CONSULTATION, professional attendance by a specialist anaesthetist in the practice of ANAESTHESIA, where the patient is referred to him or her; - a BRIEF consultation involving a short history and limited examination - AND of not more than 15 minutes duration",49.75,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Referred Attendances,,CA004,17645,4,a consultation involving a selective history and examination of multiple systems and the formulation of a written patient management plan - AND of more than 15 minutes but not more than 30 minutes duration,98.95,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Referred Attendances,,CA006,17650,6,a consultation involving a detailed history and comprehensive examination of multiple systems and the formulation of a written patient management plan - AND of more than 30 minutes but not more than 45 minutes duration,137.05,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Referred Attendances,,CA008,17655,8,"a consultation involving an exhaustive history and comprehensive examination of multiple systems and the formulation of a written patient management plan following discussion with relevant health care professionals and/or the patient, involving medical planning of high complexity - AND of more than 45 minutes duration",174.5,0,0,"The MBS adds the wording ""not being a service associated with a service to which items 2801-3000 apply"" to each consultation item descriptor. No after-hours loading applies to any of these consultation items. In the CMBS, 17610, 17615, 17620 and 17625 apply to pre-anaesthesia attendances and their descriptors contain time, complexity and documentation requirements. Item numbers 17640, 17645, 17650 and 17655 apply to anaesthetist attendences not related to pre-anaesthesia assessment. They too have additional requirements",FALSE,
+Consultations / Telehealth Attendances,,CA012,,2,"Anaesthetist Consultation , professional attendance by VIDEO CONFERENCE, by an anaesthetist in the practice of anaesthesia. Attendance of 15 mins or less duration",,,,No MBS rebate. This number is included on the AMA fee list with a value of $200.00 or 2 RVG units.,FALSE,
+Consultations / Telehealth Attendances,,CA013,,4,"Anaesthetist Consultation , professional attendance by VIDEO CONFERENCE, by an anaesthetist in the practice of anaesthesia. Attendance of more than 15 mins but not more than 30 minutes duration",,,,,FALSE,
+Consultations / Telehealth Attendances,,CA014,,6,"Anaesthetist Consultation , professional attendance by VIDEO CONFERENCE, by an anaesthetist in the practice of anaesthesia. Attendance of more than 30 mins but not more than 45 minutes duration",,,,,FALSE,
+Consultations / Telehealth Attendances,,CA015,,8,"Anaesthetist Consultation , professional attendance by VIDEO CONFERENCE, by an anaesthetist in the practice of anaesthesia. Attendance of 45 minutes or more.",,,,,FALSE,
+Consultations / Telehealth Attendances,,CA021,,2,"Anaesthetist Consultation , professional attendance by telephone, by an anaesthetist in the practice of anaesthesia. Attendance of 15 mins or less duration",,,,No MBS rebate is associated with consultation by telephone.,FALSE,
+Consultations / Telehealth Attendances,,CA022,,4,"Anaesthetist Consultation , professional attendance by telephone, by an anaesthetist in the practice of anaesthesia. Attendance of more than 15 mins but not more than 30 minutes duration.",,,,No MBS rebate is associated with consultation by telephone.,FALSE,
+Consultations / Telehealth Attendances,,CA023,,6,"Anaesthetist Consultation , professional attendance by telephone, by an anaesthetist in the practice of anaesthesia. Attendance of more than 30 mins but not more than 45 minutes duration.",,,,No MBS rebate is associated with consultation by telephone.,FALSE,
+Consultations / Telehealth Attendances,,CA024,,8,"Anaesthetist Consultation , professional attendance by telephone, by an anaesthetist in the practice of anaesthesia. Attendance of more than 45 minutes duration.",,,,No MBS rebate is associated with consultation by telephone.,FALSE,
+Consultations / Telehealth Attendances,,,92701,4,"Telehealth attendance by a medical practitioner in the practice of anaesthesia for a consultation on a patient undergoing advanced surgery or who has complex medical problems, involving a selective history and the formulation of a written patient management plan documented in the patient notes, and lasting more than 15 minutes (other than a service associated with a service to which any of items 2801 to 3000 of the general medical services table apply).",98.95,0,0,Telehealth attendance means a professional attendance by video conference where the medical practitioner: a. has the capacity to provide the full service through this means safely and in accordance with relevant professional standards; and b. is satisfied that it is clinically appropriate to provide the service to the patient; and c. maintains a visual and audio link with the patient; and d. is satisfied that the software and hardware used to deliver the service meets the applicable laws for security and privacy.,FALSE,
+ICU / Intensive Care,,BL600,13815,4,"CENTRAL VEIN CATHETERISATION by percutaneous or open exposure, not being a service to which BH750 applies",129.5,0,0,"Item BH750 (MBS Item 13318) applies to catheterisation by open exposure, in a paediatric patient",FALSE,
+ICU / Intensive Care,,BL610,13818,7,"RIGHT HEART BALLOON CATHETER, insertion of, including pulmonary wedge pressure and cardiac output measurement",129.55,0,0,,FALSE,
+ICU / Intensive Care,,BL620,13830,2,"INTRACRANIAL PRESSURE, monitoring of, by intraventricular or subdural catheter, subarachnoid bolt or similar, by a specialist or consultant physician, each day (no after-hours loading applies to this item)",85.8,0,0,,FALSE,
+ICU / Intensive Care,,BL622,13832,-,"Peripheral cannulation, including under ultrasound guidance where clinically appropriate, for veno-arterial cardiopulmonary extracorporeal life support. No separate ultrasound item is payable with this item",1004.55,0,0,,FALSE,
+ICU / Intensive Care,,BL624,13834,-,"Veno-arterial extracorporeal life support, management of – the first day",562.35,0,0,,FALSE,
+ICU / Intensive Care,,BL625,13835,-,"Veno-arterial extracorporeal life support, management of – each day after the first",130.8,0,0,,FALSE,
+ICU / Intensive Care,,BL627,13837,-,"Veno-venous pulmonary extracorporeal life support, management of – the first day",562.35,0,0,,FALSE,
+ICU / Intensive Care,,BL628,13838,-,"Veno-venous pulmonary extracorporeal life support, management of – each day after the first",130.8,0,0,,FALSE,
+ICU / Intensive Care,,BL630,13839,1,ARTERIAL PUNCTURE and collection of blood for diagnostic purposes,26.3,0,0,,FALSE,
+ICU / Intensive Care,,BL631,13840,-,"Peripheral cannulation, including under ultrasound guidance where clinically appropriate, for veno-venous pulmonary extracorporeal life support. No separate ultrasound item is payable with this item",673.05,0,0,,FALSE,
+ICU / Intensive Care,,BL640,13842,3,"INTRA-ARTERIAL CANNULATION, including under ultrasound guidance where clinically appropriate, for the purpose of intra-arterial pressure monitoring or arterial blood sampling (or both). No separate ultrasound item is payable with this item",106.55,0,0,,FALSE,
+ICU / Intensive Care,,BL660,13848,4,"COUNTERPULSATION BY INTRA- AORTIC BALLOON, management – including associated consultations and monitoring of parameters by means of full haemodynamic assessment and management on several occasions on a day – each day",177.85,0,0,,FALSE,
+ICU / Intensive Care,,BL670,13851,15,"VENTRICULAR ASSIST DEVICE, management of, for a patient admitted to an intensive care unit, including management of complications arising from implantation or management of the device – FIRST DAY",562.35,0,0,,FALSE,
+ICU / Intensive Care,,BL680,13854,4,"VENTRICULAR ASSIST DEVICE, management of, for a patient admitted to an intensive care unit, including management of complications arising from implantation or management of the device – each day after the first day",130.8,0,0,,FALSE,
+ICU / Intensive Care,,BL690,13857,4,"AIRWAY ACCESS, establishment of, and initiation of mechanical ventilation (other than in the context of an anaesthetic for surgery), outside an intensive care unit, for the purpose of subsequent ventilatory support in an intensive care unit",166.8,0,0,,FALSE,
+ICU / Intensive Care,,BM005,13870,8,"MANAGEMENT of a patient in an intensive care unit by a specialist or consultant physician who is immediately available and exclusively rostered for intensive care, including initial and subsequent attendances, electrocardiographic monitoring, arterial sampling and bladder catheterisation—management on the first day",412.55,0,0,,FALSE,
+ICU / Intensive Care,,BM015,13873,6,"MANAGEMENT of a patient in an intensive care unit by a specialist or consultant physician who is immediately available and exclusively rostered for intensive care, including all attendances, electrocardiographic monitoring, arterial sampling and bladder catheterisation—management on each day subsequent to the first (no after-hours loading applies to this item)",305.95,0,0,,FALSE,
+ICU / Intensive Care,,BM025,13876,3,"CENTRAL VENOUS PRESSURE, pulmonary arterial pressure, systemic arterial pressure or cardiac intracavity pressure, continuous monitoring by indwelling catheter in an intensive care unit, by a specialist or consultant physician who is immediately available and exclusively rostered for intensive care—each day of monitoring for each pressure up to a maximum of four pressures (no after-hours loading applies to this item)",87.6,0,0,,FALSE,
+ICU / Intensive Care,,BM040,13881,4,"AIRWAY ACCESS, establishment of, and initiation of mechanical ventilation, in an intensive care unit, not in association with any anaesthetic service, by a specialist or consultant physician, for the purpose of subsequent ventilatory support",166.8,0,0,,FALSE,
+ICU / Intensive Care,,BM045,13882,3,"VENTILATORY SUPPORT, in an intensive care unit, by invasive means or by non-invasive means where the only alternative to non-invasive ventilatory support would be invasive ventilatory support, management by a specialist or consultant physician who is immediately available and exclusively rostered for intensive care—each day (no after-hours loading applies to this item)",131.3,0,0,,FALSE,
+ICU / Intensive Care,,BM055,13885,5,"CONTINUOUS ARTERIO-VENOUS OR VENO-VENOUS HAEMOFILTRATION, in an intensive care unit, management by a specialist or consultant physician who is immediately available and exclusively rostered for intensive care—on the first day",175.05,0,0,,FALSE,
+ICU / Intensive Care,,BM065,13888,3,"CONTINUOUS ARTERIO-VENOUS OR VENO-VENOUS HAEMOFILTRATION, in an intensive care unit, management by a specialist or consultant physician who is immediately available and exclusively rostered for intensive care—on each day subsequent to the first day (no after-hours loading applies to this item)",87.6,0,0,,FALSE,
+ICU / Intensive Care,,BM070,13899,-,"PROFESSIONAL ATTENDANCE, OUTSIDE AN INTENSIVE CARE UNIT, for at least 60 minutes spent in preparation of goals of care, by a specialist in the specialty of intensive care who takes overall responsibility for the preparation of the goals of care for the patient*",305.15,0,0,*The MBS adds that item 13899 cannot be co-claimed with item 13870 or item 13873 on the same day,FALSE,
+Modifiers / Other Modifiers,,M3,,3,Anaesthesia in the prone position ( not applicable to Item CG810),,,,,FALSE,
+Modifiers / Other Modifiers,,M4,25025,0.5,After-hours emergency (Emergency is defined as existing when undue delay in treatment of the patient would lead to significantly increased threat to life or body part),0,0,"An additional amount of 50% of fee for the anaesthetic service.That is:(a) an anaesthesia item/s range 20100 - 21997 or 22900, plus (b)an item range 23010 - 24136, plus(c) if applicable,an item range 25000-25014, plus(d) where performed, any assoc therapeutic or diagnostic service range 22002-22051","* MBS Item 25025 applies only when more than 50% of the total anaesthesia time is in the after-hours period, defined in the MBS as being between 8pm and 8am on weekdays and at any time on a weekend or public holiday. 25025 applies to: (a) an anaesthesia item/s in the range 20100-21997 or 22900-22905, plus (b) an item in the range 23010-24136, plus (c) where applicable, an item in the range 25000-25015, plus (d) where performed, any associated therapeutic or diagnostic service/s in the range 22001-22051. Items 25030 and 25050 apply to assistance at after-hours emergencies and after-hours emergency perfusion services respectively. Refer to the MBS explanatory note TN.10.3 for further details.",FALSE,
+Modifiers / Other Modifiers,,M4,25030,0.5,After-hours emergency. 25030 also applies to assistance at after hours emergencies. (Emergency is defined as existing when undue delay in treatment of the patient would lead to significantly increased threat to life or body part),0,0,"50% of the fee for assistance at anaesthesia. That is: (a) an assistant anaesthesia item in the range 25200 - 25205, plus (b) an item range 23010-24136, plus (c) where applicable, an item range 25000-25014, plus (d) where performed, any associated therapeutic or diagnostic service 22002 -22051",,FALSE,
+Modifiers / Other Modifiers,,M4,25050,0.5,After-hours emergency. 25050 also applies to assistance at after-hours emergency perfusion services. (Emergency is defined as existing when undue delay in treatment of the patient would lead to significantly increased threat to life or body part),0,0,"An additional amount of 50% of the fee for the perfusion service.  That is: (a) item 22060, plus (b) an item range 23010 - 24136, plus (c) where applicable, an item range 25000 - 25014, plus (d) where performed, any associated therapeutic or diagnostic service in the range 22002-22051 or 22065-22075",,FALSE,
+Modifiers / Other Modifiers,,M1,25013,1,MB 25013 applies when less than 4 years of age. ASA M1 Applies from when a patient is ages less than 4 or 70 years or greater*,22.55,1,0,,FALSE,
+Modifiers / Other Modifiers,,M1,25014,1,MBS Item 25014 applied for a patient aged 75 years or greater. ASA M1 Applies from when a patient is ages less than 4 or 70 years or greater*,22.55,1,0,,FALSE,
+Modifiers / Other Modifiers,,M2,25020,2,Emergency surgery*,45.1,2,0,"* Emergency is defined as existing when undue delay in treatment of the patient would lead to significantly increased threat to life or body part. The MBS defines an emergency as ""where the patient requires immediate treatment without which there would be significant threat to life or body part"".",FALSE,
+Modifiers / Physical Status Modifiers,,P1,,0,A normal healthy patient,,,,,FALSE,
+Modifiers / Physical Status Modifiers,,P2,,0,A patient with mild systemic disease,,,,,FALSE,
+Modifiers / Physical Status Modifiers,,P6,,2,A patient who is morbidly obese-body mass index (BMI) of more than 35,,,,,FALSE,
+Modifiers / Physical Status Modifiers,,P8,,0,A patient declared brain-dead whose organs are being removed for donor purposes,,,,,FALSE,
+Modifiers / Physical Status Modifiers,,P3,25000,1,A patient with severe systemic disease,22.55,1,0,,FALSE,
+Modifiers / Physical Status Modifiers,,P4,25005,4,A patient with severe systemic disease that is a constant threat to life,45.1,2,0,,FALSE,
+Modifiers / Physical Status Modifiers,,P5,25010,6,A moribund patient who is not expected to survive for 24 hours with or without the operation,67.65,3,0,,FALSE,
+Modifiers / Physical Status Modifiers,,P7,,2,"A patient from 24 weeks gestation to 72 hours postpartum (does not apply to items CG850, CG855, CH946, CH960)",,,,P7 description amended 1 April 2024,FALSE,
+Other / Anaesthesia Assistance,,CW020,25200,5,Assistance in the administration of an anaesthetic,0,5,"An amount of $112.85 (5 basic units) plus an item in the range 23010 - 24136 plus, where applicable - an item in the range 25000 - 25020 plus, where performed, any associated therapeutic or diagnostic service/s in the range 22001 - 22051","MBS Item 25200 (5 units +PM +T) applies to assistance on a patient in imminent danger of death. MBS Item 25205 (5 units +PM +T) applies to assistance in the following situations: 1. the patient has complex airway problems, 2. the patient is a neonate or complex paediatric case, 3. there is anticipated to be massive blood loss (greater than 50% of blood volume), 4. the patient is critically ill, with multiple organ failure, and 5. where the anaesthesia time exceeds six hours. MBS Item 25030 applies to assistance at an after-hours emergency and adds a 50% loading to either item 25200 or 25205. Therapeutic and diagnostic services provided by an assistant anaesthetist are elligible for MBS rebates under the relevant sub-group 19 (ASA Division V) item. Refer to MBS explanatory note T.10.9 for further details.",TRUE,
+Other / Anaesthesia Assistance,,CW020,25205,5,Assistance in the administration of an anaesthetic,0,5,"An amount of $112.85 (5 basic units) plus an item in the range 23010 - 24136 plus, where applicable - an item in the range 25000 - 25020 plus, where performed, any associated therapeutic or diagnostic service/s in the range 22002 - 22051","MBS Item 25200 (5 units +PM +T) applies to assistance on a patient in imminent danger of death. MBS Item 25205 (5 units +PM +T) applies to assistance in the following situations: 1. the patient has complex airway problems, 2. the patient is a neonate or complex paediatric case, 3. there is anticipated to be massive blood loss (greater than 50% of blood volume), 4. the patient is critically ill, with multiple organ failure, and 5. where the anaesthesia time exceeds six hours. MBS Item 25030 applies to assistance at an after-hours emergency and adds a 50% loading to either item 25200 or 25205. Therapeutic and diagnostic services provided by an assistant anaesthetist are elligible for MBS rebates under the relevant sub-group 19 (ASA Division V) item. Refer to MBS explanatory note T.10.9 for further details.",TRUE,
+Other / Anaesthesia Assistance,,CW020,25030,,Assistance in the administration of an anaesthetic,0,0,"50% of the fee for assistance at anaesthesia. That is: (a) an assistant anaesthesia item in the range 25200 - 25205, plus (b) an item range 23010-24136, plus (c) where applicable, an item range 25000-25014, plus (d) where performed, any associated therapeutic or diagnostic service 22002 -22051","MBS Item 25200 (5 units +PM +T) applies to assistance on a patient in imminent danger of death. MBS Item 25205 (5 units +PM +T) applies to assistance in the following situations: 1. the patient has complex airway problems, 2. the patient is a neonate or complex paediatric case, 3. there is anticipated to be massive blood loss (greater than 50% of blood volume), 4. the patient is critically ill, with multiple organ failure, and 5. where the anaesthesia time exceeds six hours. MBS Item 25030 applies to assistance at an after-hours emergency and adds a 50% loading to either item 25200 or 25205. Therapeutic and diagnostic services provided by an assistant anaesthetist are elligible for MBS rebates under the relevant sub-group 19 (ASA Division V) item. Refer to MBS explanatory note T.10.9 for further details.",TRUE,
+Other / Other Procedures,Spine,CS906,21906,5,ANAESTHESIA for myelography: (lumbar or thoracic),112.75,5,0,,TRUE,
+Other / Other Procedures,Spine,CS908,21908,6,myelography (cervical),135.3,6,0,,TRUE,
+Other / Other Procedures,Spine,CS910,21910,9,myelography (posterior fossa),202.95,9,0,,TRUE,
+Other / Other Procedures,Spine,CS912,21912,5,discography (lumbar or thoracic),112.75,5,0,,TRUE,
+Other / Other Procedures,Spine,CS914,21914,6,discography (cervical),135.3,6,0,,TRUE,
+Other / Other Procedures,Spine,CS945,21945,5,"lumbar puncture, cisternal puncture, or epidural injection",112.75,5,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS915,21915,5,ANAESTHESIA for peripheral arteriogram,112.75,5,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS916,21916,5,"arteriogram (cerebral, carotid or vertebral)",112.75,5,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS918,21918,5,"retrograde arteriogram, (brachial or femoral)",112.75,5,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS935,21935,5,phlebography,112.75,5,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS936,21936,6,"heart, two-dimensional real time transoesophageal examination",112.75,5,0,* MBS item 21936 is allocated 5 units,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS939,21939,3,peripheral venous cannulation,67.65,3,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS941,21941,7,"cardiac catheterisation (including coronary arteriography, ventriculography, cardiac mapping, insertion of automatic defibrillator or transvenous pacemaker)",157.85,7,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS942,21942,10,cardiac electrophysiological procedures (including radiofrequency ablation),225.5,10,0,,TRUE,
+Other / Other Procedures,Vascular/Cardiology,CS943,21943,5,"central vein catheterisation or insertion of right heart balloon catheter (via jugular, subclavian or femoral vein) by percutaneous or open exposure",112.75,5,0,,TRUE,
+Other / Other Procedures,Radiology,CS922,21922,7,"ANAESTHESIA for computerised axial tomography scanning, magnetic resonance scanning, ultrasound scanning* or digital subtraction angiography scanning",135.3,6,0,* The MBS descriptor does not include ultrasound scanning.,TRUE,
+Other / Other Procedures,Radiology,CS925,21925,4,"retrograde cystography, retrograde urethrography or retrograde cystourethrography",90.2,4,0,,TRUE,
+Other / Other Procedures,Radiology,CS926,21926,4,fluoroscopy,90.2,4,0,,TRUE,
+Other / Other Procedures,Radiology,CS930,21930,6,bronchography,135.3,6,0,,TRUE,
+Other / Other Procedures,Neurology,CS955,21955,5,ANAESTHESIA for electroencephalography,112.75,5,0,,TRUE,
+Other / Other Procedures,Neurology,CS959,21959,5,brain stem evoked audiometry,112.75,5,0,,TRUE,
+Other / Other Procedures,Neurology,CS962,21962,5,electrocochleography by extratympanic method or transtympanic membrane insertion method,112.75,5,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS900,21900,3,ANAESTHESIA for injection procedure for hysterosalpingography,67.65,3,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS949,21949,5,harvesting of bone marrow for the purpose of transplantation,112.75,5,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS952,21952,4,muscle biopsy for malignant hyperpyrexia,90.2,4,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS965,21965,5,"ANAESTHESIA as a therapeutic procedure where it can be demonstrated that there is a clinical need for anaesthesia (The MBS states "" not for the treatment of headache of any etiology"")",112.75,5,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS969,21969,8,ANAESTHESIA during hyperbaric therapy where the medical practitioner is not confined in the chamber (including the administration of oxygen),180.4,8,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS970,21970,15,hyperbaric therapy where the medical practitioner is confined in the chamber (including the administration of oxygen),338.25,15,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS973,21973,5,brachytherapy using radioactive sealed sources,112.75,5,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS976,21976,5,therapeutic nuclear medicine,112.75,5,0,,TRUE,
+Other / Other Procedures,Miscellaneous,CS980,21980,7,radiotherapy,112.75,5,0,,TRUE,
+Other / Other Procedures,Radiology,CS923,,4,radiology unless otherwise specified,,,,,TRUE,
+Other / Therapeutic and Diagnostic Services,Echocardiography,CV730,22051,10,"INTRAOPERATIVE TRANSOESOPHAGEAL ECHOCARDIOGRAPHY monitoring in real time of the structure and function of the heart chambers, valves and surrounding structures, including assessment of blood-flow, with appropriate permanent recording during procedures on the heart, pericardium or great vessels of the chest (not in association with 55130, 55135 or 21936) Not necessary in ASA RVG—covered by items CV730 and CV740",202.95,9,0,"* Item 22051 should be performed by a provider who is appropriately credentialed to provide the particular service, by a recognised body for the credentialing of peri-operative cardiac ultrasound services. Credentialing must be based on criteria consistent with those recommended by the Australian and New Zealand College of Anaesthetists in the current version of their Professional Document PS46 'Guidelines on Training and Practice of Perioperative Cardiac Ultrasound in Adults'.",FALSE,
+Other / Therapeutic and Diagnostic Services,Echocardiography,CV740,55135,14,"INTRAOPERATIVE TWO-DIMENSIONAL REAL-TIME TRANSOESOPHAGEAL ECHOCARDIOGRAPHY incorporating Doppler techniques with colour flow mapping and recording onto video tape or digital medium, performed during cardiac valve surgery (repair or replacement) incorporating sequential assessment of cardiac function and valve competence before and after the surgical procedure (not associated with Item 55130). Can't be co-claimed with other RVG items. Not necessary in ASA RVG—covered by items CV730 and CV740.",396.5,0,0,*Item 55135 is under active discussion with Medicare: Medicare Compliance have formally advised that 55135 cannot be claimed by an anaesthetising Anaesthetist OR anaesthetist who is billing for perfusion as of 28 March 2021. This number can only be claimed by a credentialed specialist providing a specific attendance for Intraoperative Transoesophageal Echocardiography (ITOE). The only number an anaesthetising Anaesthetist can currently claim for ITOE is 22051.,FALSE,
+Other / Therapeutic and Diagnostic Services,Echocardiography,CV730,55118,10,"HEART, TWO-DIMENSIONAL REAL-TIME TRANSOESOPHAGEAL EXAMINATION of at least two oesophageal windows performed using a mechanical sector scanner or phased array transducer with: a) measurement of blood-flow velocities across the cardiac valves using pulsed wave and continuous Doppler techniques, b) real-time colour flow mapping from at least two oesophageal windows, and c) recording on video tape or digital medium",308.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV120,18216,8,"INTRATHECAL, COMBINED SPINAL-EPIDURAL or EPIDURAL INJECTION (initial or commencement of infusion) of a therapeutic substance, including up to one hour of continuous attendance by the medical practitioner, not in association with anaesthesia and surgery*",216.35,0,0,* Items in the range CV120 to CV126 may apply to regional blocks provided for labour analgesia. It is important to note that these items apply to services not associated with anaesthesia for surgery.,FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV122,18219,0,"INTRATHECAL, COMBINED SPINAL-EPIDURAL or EPIDURAL INJECTION (initial or commencement of infusion) of a therapeutic substance, where continuous attendance by the medical practitioner extends beyond the first hour* DERIVED FEE being 8 units for the first hour (as for Item CV120) plus 1 unit for each additional 15 minutes or part thereof",0,0,The fee for item 18216 plus $21.65 for each additional 15 minutes or part thereof beyond the first hour of attendance by the medical practitioner.,"plus $21.65 per 15 mins after 1 hour
+* Items in the range CV120 to CV126 may apply to regional blocks provided for labour analgesia. It is important to note that these items apply to services not associated with anaesthesia for surgery",FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV123,18226,15,"INTRATHECAL, COMBINED SPINAL-EPIDURAL or EPIDURAL INJECTION (initial or commencement of infusion) of a therapeutic substance, including up to one hour of continuous attendance by the medical practitioner AFTER-HOURS*, for a patient in labour, not in association with anaesthesia and surgery**",324.45,0,0,"* 'After hours' is defined as that period between 6pm and the following 8am on weekdays and all day on weekends and public holidays. In the MBS RVG, the 'after hours' period does not commence until 8pm on weekdays. ** Items in the range CV120 to CV126 may apply to regional blocks provided for labour analgesia. It is important to note that these items apply to services not associated with anaesthesia for surgery.",FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV124,18227,,"INTRATHECAL, COMBINED SPINAL-EPIDURAL or EPIDURAL INJECTION (initial or commencement of infusion) of a therapeutic substance where continuous AFTER-HOURS attendance by the medical practitioner extends beyond the first hour, for a patient in labour*. DERIVED FEE being 15 units for the first hour (as for Item CV123) plus 1 unit for each additional 15 minutes or part thereof",0,0,The fee for item 18226 plus $32.60 for each additional 15 minutes or part there of beyond the first hour of attendance by the medical practitioner.," plus $32.60 per 15 mins after 1 hour *	Items in the range CV120 to CV126 may apply to regional blocks provided for labour analgesia. It is important to note that these items apply to services not associated with anaesthesia for surgery.",FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV125,18222,3,SUBSEQUENT INJECTION (or revision of infusion) of a therapeutic substance to maintain regional anaesthesia or analgesia where the period of continuous medical practitioner attendance is 15 minutes or less*,42.9,0,0,* Items in the range CV120 to CV126 may apply to regional blocks provided for labour analgesia. It is important to note that these items apply to services not associated with anaesthesia for surgery.,FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV126,18225,4,SUBSEQUENT INJECTION (or revision of infusion) of a therapeutic substance to maintain regional anaesthesia or analgesia where the period of continuous medical practitioner attendance is more than 15 minutes*,57,0,0,* Items in the range CV120 to CV126 may apply to regional blocks provided for labour analgesia. It is important to note that these items apply to services not associated with anaesthesia for surgery.,FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV140,18232,8,"INTRATHECAL, EPIDURAL or CAUDAL injection of a substance other than anaesthetic, contrast or neurolytic solutions, not being a service to which another item in this group applies",216.35,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV145,18233,8,EPIDURAL INJECTION of blood for blood patch,216.35,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Spinals/Epidurals/Caudals,CV155,18297,3,Assistance at the administration of an epidural blood patch (a service to which item CV145/18233 applies) by another practitioner,67.6,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Pain Management,CV085,22031,5,"INTRATHECAL or EPIDURAL INJECTION (initial) of a therapeutic substance or substances, with or without insertion of a catheter, in association with anaesthesia and surgery, for postoperative pain management",112.75,5,0,"* Postoperative pain management means that the injected therapeutic substance is expected to prolong the analgesic effect of the epidural or intrathecal technique. Benefits are payable under item 22031 for the initial intrathecal or epidural injection of a therapeutic substance/s, in association with anaesthesia and surgery, for the control of post-operative pain. Benefit is not payable for subsequent intra-operative intrathecal and epidural injection (item 22036) in the same anaesthetic episode. Where subsequent infusion is provided post operatively, to maintain analgesia, benefit would be payable under items 18222 or 18225.",FALSE,
+Other / Therapeutic and Diagnostic Services,Pain Management,CV086,22036,3,"INTRATHECAL or EPIDURAL INJECTION (subsequent) of a therapeutic substance or substances, using an in situ catheter, in association with anaesthesia and surgery, for postoperative pain relief (not to be used in conjunction with Item CV085)",67.65,3,0,"* Postoperative pain management means that the injected therapeutic substance is expected to prolong the analgesic effect of the epidural or intrathecal technique. Benefits are payable under item 22031 for the initial intrathecal or epidural injection of a therapeutic substance/s, in association with anaesthesia and surgery, for the control of post-operative pain. Benefit is not payable for subsequent intra-operative intrathecal and epidural injection (item 22036) in the same anaesthetic episode. Where subsequent infusion is provided post operatively, to maintain analgesia, benefit would be payable under items 18222 or 18225.",FALSE,
+Other / Therapeutic and Diagnostic Services,Pain Management,,22041,,Perioperative introduction of a plexus or nerve block proximal to the lower leg or forearm for post operative pain management Not necessary in ASA RVG – covered by CV082,45.1,2,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV130,18230,20,"INTRATHECAL, EPIDURAL OR CAUDAL INJECTION of neurolytic substance",271.6,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV400,39100,12,"TRIGEMINAL NERVE; supraorbital, infraorbital, mental or inferior alveolar branch, destruction by a neurolytic agent",270.65,0,0,CV400 increased from 10 to 12 units 1 April 2024,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV405,39109,20,"TRIGEMINAL NERVE: second and third division branches at foramen ovale, destruction by a neurolytic agent",1614.95,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV415,18290,20,"CRANIAL NERVE OTHER THAN TRIGEMINAL, destruction by a neurolytic agent, not being a service associated with the injection of botulinum toxin (Anaesthesia)",284.45,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV420,18292,10,"NERVE BRANCH, not covered by any other item in this group, destruction by a neurolytic agent, not being a service associated with the injection of botulinum toxin (Anaesthesia)",142.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV430,18294,20,"COELIAC PLEXUS OR SPLANCHNIC NERVES, destruction by a neurolytic agent",200.55,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV440,18296,15,"LUMBAR SYMPATHETIC CHAIN, destruction by a neurolytic agent",171.5,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Neurolysis,CV450,18298,20,"CERVICAL OR THORACIC SYMPATHETIC CHAIN, destruction by a neurolytic agent",200.55,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Hyperbaric Medicine,CV700,13030,15,HYPERBARIC OXYGEN TREATMENT when the specialist is inside the chamber,186.15,0,0,Per hour,FALSE,
+Other / Therapeutic and Diagnostic Services,Hyperbaric Medicine,CV710,13020,8,HYPERBARIC OXYGEN TREATMENT when the specialist is outside the chamber,294.85,0,0,1.5-3 hours,FALSE,
+Other / Therapeutic and Diagnostic Services,Hyperbaric Medicine,CV710,13025,8,HYPERBARIC OXYGEN TREATMENT when the specialist is outside the chamber,131.8,0,0,Per hour after 3 hours,FALSE,
+Other / Therapeutic and Diagnostic Services,Hyperbaric medicine,CV710,13015,8,HYPERBARIC OXYGEN TREATMENT when the specialist is outside the chamber,290.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV052,18213,4,INTRAVENOUS REGIONAL ANAESTHESIA OF LIMB BY RETROGRADE PERFUSION,100.95,0,0,"Items CV052 and CV200 to CV330 are intended for nerve blocks performed as an independent procedure, e.g. in the practice of pain medicine or when a second anaesthetist is called into theatre to assist the primary anaesthetist by performing the block. These items are not to be used by the anaesthetist providing the primary anaesthesia service. If such nerve blocks are performed by the primary anaesthetist, one item from the range CV081 to CV086 applies, but not from the range CV052 and CV200 to CV330. The MBS has a similar rule for items 18213 to 18288. These MBS items may not be claimed in addition to an item from MBS Group T.10 (basic anaesthesia items). MBS items 22040 to 22050 and 22031 to 22036 can, however, be claimed in the appropriate circumstances (see MBS explanatory notes T.10.7, T.10.17 and T.10.19 to T.10.21)",FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV200,18234,10,"INJECTION OF AN ANAESTHETIC AGENT, in the trigeminal nerve, primary division of",142.25,0,0,"Items CV052 and CV200 to CV330 are intended for nerve blocks performed as an independent procedure, e.g. in the practice of pain medicine or when a second anaesthetist is called into theatre to assist the primary anaesthetist by performing the block. These items are not to be used by the anaesthetist providing the primary anaesthesia service. If such nerve blocks are performed by the primary anaesthetist, one item from the range CV081 to CV086 applies, but not from the range CV052 and CV200 to CV330. The MBS has a similar rule for items 18213 to 18288. These MBS items may not be claimed in addition to an item from MBS Group T.10 (basic anaesthesia items). MBS items 22040 to 22050 and 22031 to 22036 can, however, be claimed in the appropriate circumstances (see MBS explanatory notes T.10.7, T.10.17 and T.10.19 to T.10.21)",FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV201,18236,5,"trigeminal nerve, peripheral branch of",71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV202,18238,3,facial nerve,42.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV204,18240,5,retrobulbar or peribulbar,106.6,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV205,18242,3,greater occipital nerve,42.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV208,18244,8,vagus nerve,114.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV210,18248,7,phrenic nerve,100.95,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV212,18250,5,spinal accessory nerve,71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV213,18252,8,cervical plexus,114.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV215,18254,8,brachial plexus,114.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV218,18256,5,suprascapular nerve,71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV220,18258,5,"intercostal nerve, single",71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV221,18260,7,"intercostal nerves, multiple",100.95,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV225,18262,5,"ilioinguinal, iliohypogastric, or genitofemoral nerves, one or more of, or transversus abdominis plane (TAP) block",71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV230,18264,8,pudendal nerve,114.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV233,18266,5,"ulnar, radial or median nerve of main trunk, one or more of, not being associated with a brachial plexus block",71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV237,18268,7,obturator nerve,100.95,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV238,18270,7,femoral nerve,100.95,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV239,18272,5,"saphenous, sural, popliteal or posterior tibial nerve of main trunk, one or more of",71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV241,18276,10,"paravertebral nerves, multiple levels",142.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV245,18278,7,sciatic nerve,100.95,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Echocardiography,CV740,,14,"INTRAOPERATIVE TWO-DIMENSIONAL REAL-TIME TRANSOESOPHAGEAL ECHOCARDIOGRAPHY incorporating Doppler techniques with colour flow mapping and recording onto video tape or digital medium, performed during cardiac surgery incorporating sequential assessment of cardiac function before and after the surgical procedure*",,,,"* MBS Item 55130, for intraoperative TOE, matches the descriptor for ASA Item CV740. However, the Department of Health has advised that Medicare benefits for this service by anaesthetists are not payable under Item 55130, but rather Item 22051. Benefits remain payable for MBS Item 55135 (echocardiography in association with cardiac valve surgery), provided the terms of the Diagnostic Imaging Accreditation Scheme are met. MBS Item 22051 does not have this requirement.",FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV305,18280,10,sphenopalatine ganglion,142.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV308,18282,8,"carotid sinus, as an independent percutaneous procedure",114.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV310,18284,8,stellate ganglion (cervical sympathetic block),168.15,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV320,18286,8,lumbar or thoracic nerves (paravertebral sympathetic block),168.15,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV330,18288,10,coeliac plexus or splanchnic nerves,168.15,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Perfusion/Bypass,CV055,22055,12,PERFUSION OF LIMB OR ORGAN,270.6,12,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Perfusion/Bypass,CV060,22060,30,MEDICAL MANAGEMENT OF CARDIOPULMONARY BYPASS PERFUSION using heart/lung machine or equivalent*,676.5,30,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Perfusion/Bypass,CV065,22065,5,"INDUCED CONTROLLED HYPOTHERMIA, total body",112.75,5,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV209,,8,glossopharyngeal nerve,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Perfusion/Bypass,CV075,22075,15,"DEEP HYPOTHERMIA to a core temperature of less than 22 degrees in association with circulatory arrest, including management of retrograde cerebral perfusion if performed",338.25,15,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV235,,5,paracervical (uterine) nerve,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Invasive Monitoring,CV014,22014,3,"MONITORING THAT: (a) is of one of the following types of blood pressure: (i) central venous blood pressure; (ii) pulmonary arterial blood pressure; (iii) systemic arterial blood pressure; (iv) cardiac intracavity blood pressure; and (b) is conducted by indwelling catheter; and (c) is performed in association with the administration of anaesthesia for a procedure and not as a service to which item 13876 applies; and (d) is performed, on a day, on a patient who: (i) is categorised as having a high risk of complications; or (ii) during the procedure develops either complications or a high risk of complications; and (e) has not previously been performed in those circumstances on the day on the patient for that type of blood pressure",67.65,3,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Invasive Monitoring,CV015,22015,7,"RIGHT HEART BALLOON CATHETER, insertion of, including pulmonary wedge pressure and cardiac output measurement, when performed in association with the administration of anaesthesia",135.3,6,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Invasive Monitoring,CV026,13839,1,"ARTERIAL PUNCTURE, withdrawal of blood for diagnosis",26.3,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV240,18274,7,"paravertebral, cervical, thoracic, lumbar, sacral or coccygeal nerves, single vertebral level",,,,MBS item 18274 removed 1 March 2022,FALSE,
+Other / Therapeutic and Diagnostic Services,Nerve Blocks,CV250,,5,other peripheral nerve or branch,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Perfusion/Bypass,CV070,,10,"CARDIOPLAEGIA, BLOOD OR CRYSTALLOID, administration by any route",,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV020,22020,4,"CENTRAL VEIN CATHETERISATION, percutaneous, performed in association with the administration of anaesthesia",90.2,4,0,CV020 increased from 3 to 4 1 April 2024,FALSE,
+Other / Therapeutic and Diagnostic Services,Perfusion/Bypass,CV076,,5,STANDBY MEDICAL MANAGEMENT OF CARDIOPULMONARY BYPASS PERFUSION using heart/lung machine or equivalent,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV025,22025,4,INTRA-ARTERIAL CANNULATION when performed in association with the management of anaesthesia for a procedure for a patient who: (a) is categorised as having a high risk of complications; or (b) develops a high risk of complications during the procedure*,90.2,4,0,CV025 increased from 3 to 4 1 April 2024,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV010,,3,"VENOUS CANNULATION and commencement of intravenous infusion, under three years of age, not associated with anaesthesia",,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV029,13303,5,"CATHETERISATION, UMBILICAL ARTERY, newborn, for diagnosis or therapy",96.15,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV035,13815,8,"PLACEMENT OF A PERIPHERALLY INSERTED CENTRAL CATHETER (PICC) for the purpose of long-term vascular access, including up to 1 hour of procedure time*",129.5,0,0,"* MBS Item 13815 (and 22020 for procedures in association with anaesthesia) have had their descriptors changed, so that they now apply to PICC lines.
+*No separate US item is claimable concurrently with this item and not to be claimed in association of anaesthesia
+
+CV035 increased from 5 to 8 units 1 April 2024
+CV035 description amended 1 April 2024",FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV036,22020,8,"PLACEMENT OF A PERIPHERALLY INSERTED CENTRAL CATHETER (PICC) for the purpose of long-term vascular access, where the procedure time exceeds 1 hour DERIVED FEE being 8 units for the first hour (as for Item CV035) plus 1 unit for each additional 15 minutes or part thereof*",90.2,4,0,"* MBS Item 13815 (and 22020 for procedures in association with anaesthesia) have had their descriptors changed, so that they now apply to PICC lines.
+*No separate US item is claimable concurrently with this item and not to be claimed in association of anaesthesia
+
+CV036 increased from 5 to 8 units 1 April 2024",FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV011,,5,"VENOUS CANNULATION, cutdown",,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV013,,2,VENOUS CANNULATION and commencement of intravenous infusion not associated with anaesthesia,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Airway Management,CV007,22007,4,"ENDOTRACHEAL INTUBATION with flexible fibreoptic scope, associated with difficult airway, when performed in association with the administration of anaesthesia",90.2,4,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Airway Management,CV008,22008,4,"DOUBLE LUMEN ENDOBRONCHIAL TUBE or BRONCHIAL BLOCKER, insertion of, when performed in association with the administration of anaesthesia",90.2,4,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Transfusion,CV001,,4,"COLLECTION OF BLOOD FOR AUTOLOGOUS TRANSFUSION or when homologous blood is required for immediate transfusion in an emergency situation, or intra-operative operation of cell salvage equipment, when performed in association with the administration of anaesthesia, with a transfusion to the patient that is clinically significant (minimum equivalent of 1 unit, age and weight adjusted)",,,,"CV001 increased from 3 to 4 units 1 April 2024
+CV001 description amended so can be used for cell saver operation 1 April 2024",FALSE,
+Other / Therapeutic and Diagnostic Services,Transfusion,CV002,22002,4,"ADMINISTRATION OF HOMOLOGOUS BLOOD or bone marrow already collected, when performed in association with the administration of anaesthesia",90.2,4,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Transfusion,CV003,13706,5,VENOUS CANNULATION and BLOOD TRANSFUSION (or blood products) not associated with anaesthesia,94.9,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV022,,5,CENTRAL VEIN CATHETERISATION by cutdown,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Ultrasound,CV800,,3,The use of two-dimensional ULTRASOUND GUIDANCE to assist percutaneous major vascular access (including arterial access and the insertion of peripherally inserted central catheter) (Note: this item may be used in addition to the relevant item for vascular catheterisation)*,,,,"The ASA recommends that CV800 or CV805 should be claimed only once per episode of care where that device is provided and maintained by the medical facility. • For example, where US is used for major vascular access covered by items such as CV015/22015, CV020/ 22020, CV025/22025, or regional anaesthesia procedures, including but not limited to CV085/22035, CV086 / 22036, CV081-083 or 22041, in association with anaesthesia, the anaesthetist should claim one of the appropriate CV800 or CV805 ASA items. From March 2024, the ASA RVG has increased the unit allocation for items CV020 and CV025 from 3 units to 4. The ASA recommends that a maximum of one CV 800 AND one CV805 be claimed per episode of care, where the anaesthetist has provided and maintains the ultrasound system being used, (including US probe and equipment), AND is responsible for the sterilisation and maintenance of the US equipment. • For example, where the anaesthetist uses a US system that they have purchased and maintained, for insertion of a central venous catheter and/or intra-arterial cannula (CV020/22020, CV025/22025) as well as a major nerve block for post operative analgesia (CV081/ 22041), the anaesthetist can claim CV800 and CV805",,
+Other / Therapeutic and Diagnostic Services,Ultrasound,CV805,,3,The use of two-dimensional ULTRASOUND GUIDANCE to assist percutaneous neural blockade (Note: this item may be used in addition to the relevant nerve block item)*,,,,"The ASA recommends that CV800 or CV805 should be claimed only once per episode of care where that device is provided and maintained by the medical facility. • For example, where US is used for major vascular access covered by items such as CV015/22015, CV020/ 22020, CV025/22025, or regional anaesthesia procedures, including but not limited to CV085/22035, CV086 / 22036, CV081-083 or 22041, in association with anaesthesia, the anaesthetist should claim one of the appropriate CV800 or CV805 ASA items. From March 2024, the ASA RVG has increased the unit allocation for items CV020 and CV025 from 3 units to 4. The ASA recommends that a maximum of one CV 800 AND one CV805 be claimed per episode of care, where the anaesthetist has provided and maintains the ultrasound system being used, (including US probe and equipment), AND is responsible for the sterilisation and maintenance of the US equipment. • For example, where the anaesthetist uses a US system that they have purchased and maintained, for insertion of a central venous catheter and/or intra-arterial cannula (CV020/22020, CV025/22025) as well as a major nerve block for post operative analgesia (CV081/ 22041), the anaesthetist can claim CV800 and CV805",,
+Other / Therapeutic and Diagnostic Services,Ultrasound,,55054,,"ULTRASONIC CROSS-SECTIONAL ECHOGRAPHY in conjunction with a surgical procedure, using interventional techniques. Items from Group T.10 cannot be claimed in association with Item 55054 Not necessary in ASA RVG—covered by items CV800 and CV805",122.4,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV027,,5,ARTERIAL CANNULATION by cutdown,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV005,,15,"ENDOTRACHEAL INTUBATION, emergency procedure, when the patient's airway is unsecured and at high risk of occlusion (e.g. epiglottitis or haematoma post thyroidectomy) not associated with surgery. If associated with surgery refer to item CB305",,,,,TRUE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV100,39000,5,"SUBARACHNOID PUNCTURE, lumbar, diagnostic",85.75,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV105,40018,8,INSERTION OF SUBARACHNOID DRAIN,181.6,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV128,18228,5,"INTERPLEURAL BLOCK, initial injection or commencement of infusion of a therapeutic substance",71.25,0,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV500,13400,5,"CARDIOVERSION, elective, electrical conversion of arrhythmia, external",110.35,0,0,CV500 increased from 4 to 5 1 April 2024,FALSE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV981,12005,4,"ANAESTHETIC AGENT ALLERGY TESTING, using skin sensitivity methods in a patient with a history of prior anaphylactic or anaphylactoid reaction or cardiovascular collapse in association with the administration of anaesthesia agents",90.2,0,0,"* The Dermatology, Allergy and Immunology Clinical Committee unilaterally recommended deletion of RVG item 21981, without the knowledge of the ASA, and the introduction of item 12005, with essentially the same descriptor and a Schedule Fee of $79.20 (but with no time items applicable). The ASA and the Australian and New Zealand Anaesthetic Allergy Group (ANZAAG) were unable to prevent this deletion, despite a detailed submission by ANZAAG. This remains the subject of discussions with the Department of Health.",FALSE,
+Other / Therapeutic and Diagnostic Services,Airway Management,CV600,,10,ENDOTRACHEAL EXTUBATION of a patient with a known difficult airway or at risk of airway compromise. Not in association with surgery.,,,,CV600 added 1 April 2024,,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV053,22053,6,"INSERTION OF LUMBAR CEREBROSPINAL FLUID DRAIN, when performed in association with the administration of anaesthesia",135.3,6,0,"CV053 added 1 April 2024
+
+22053 added 1 March 2024",,
+Other / Therapeutic and Diagnostic Services,Transfusion,CV000,22052,6,"Transfusion of blood by an anaesthetist, including collection from donor, when used for intra-operative normovolaemic haemodilution, where the service is provided on the same occasion as the administration of anaesthesia by the same anaesthetist",135.3,6,0,CV000 added 1 April 2024,FALSE,
+Other / Therapeutic and Diagnostic Services,Transfusion,,22052,,,135.3,6,0,,,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,,22053,,,135.3,6,0,,,
+Other / Therapeutic and Diagnostic Services,Echocardiography,,22054,,,405.9,18,0,,,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV006,,4,"ENDOTRACHEAL INTUBATION, not associated with anaesthesia, when subsequent management is not in an intensive care unit",,,,,TRUE,
+Other / Therapeutic and Diagnostic Services,Ultrasound,CV004,,8,"ADMINISTRATION OF MASSIVE BLOOD TRANSFUSION in association with the administration of anaesthesia (""massive"" is defined as the replacement of at least one whole blood volume of the patient within a 24 hour period)",,,,,,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV009,,3,"MONITORING DEPTH OF ANAESTHESIA, incorporating continuous measurement of the electroencephalogram during anaesthesia for the diagnosis of awareness, in situations with a higher baseline risk of awareness*",,,,"* Item CV009 (for monitoring depth of anaesthesia) is not intended for routine use. It applies to the monitoring of a processed EEG signal for the avoidance of awareness, in situations in which the anaesthetist considers the risk of awareness to be higher than usual. Such clinical situations may include cardiac surgery, trauma surgery, the medically unwell patient, a previous history of awareness, caesarean section under general anaesthesia or the use of total intravenous anaesthesia. It is important to note that there is no MBS equivalent to this item.",FALSE,
+Other / Therapeutic and Diagnostic Services,Miscellaneous,CV032,14209,4,INTRA-ARTERIAL INFUSION or retrograde intravenous perfusion of a sympatholytic agent,,,,,FALSE,
+Other / Therapeutic and Diagnostic Services,Vascular Cannulation,CV028,22012,3,Intra-arterial pressure monitoring,67.65,3,0,,FALSE,
+Other / Therapeutic and Diagnostic Services,Invasive Monitoring,CV014,22012,3,"MONITORING THAT: (a) is of one of the following types of blood pressure: (i) central venous blood pressure; (ii) pulmonary arterial blood pressure; (iii) systemic arterial blood pressure; (iv) cardiac intracavity blood pressure; and (b) is conducted by indwelling catheter; and (c) is performed in association with the administration of anaesthesia for a procedure and not as a service to which item 13876 applies; and (d) is performed, on a day, on a patient who: (i) is categorised as having a high risk of complications; or (ii) during the procedure develops either complications or a high risk of complications; and (e) has not previously been performed in those circumstances on the day on the patient for that type of blood pressure",67.65,3,0,,FALSE,
+Other / Unlisted Anaesthetic Procedures,,CS990,21990,3,ANAESTHESIA when no procedure ensues*,67.65,3,0,"* The previous requirements for item 21990, that the claim must be accompanied by an explanation of the full details of the circumstances, including details of the surgery/ procedure which had been proposed and the reason for it being discontinued, were altered on 1 Nov 2018. Explanatory note TN10.12 now reads: ""Claims should include details of the surgery/procedure which had been proposed and the reason for it being discontinued or abandoned.” The Medicare website simply states “When billing item 21990, include a note listing the surgical item or items that were abandoned”",TRUE,
+Other / Unlisted Anaesthetic Procedures,,CU999,,0,"UNLISTED ANAESTHESIA PROCEDURE(S). The ASA recognises that in determining the number of units applicable, the anaesthetist shall have regard to equivalent procedures",,,,,FALSE,
+Other / Unlisted Anaesthetic Procedures,,,21992,4,INITIATION OF MANAGEMENT OF ANAESTHESIA performed on a person under the age of ten years in connection with a procedure covered by an item which has not been identified as attracting an anaesthetic (Not necessary in ASA RVG—covered by items CU999 and CV999),90.2,4,0,Not necessary in ASA RVG—covered by items CU999 and CV999,TRUE,
+Other / Unlisted Anaesthetic Procedures,,,21997,4,"INITIATION OF MANAGEMENT OF ANAESTHESIA in connection with a procedure covered by an item which has not been identified as attracting an anaesthetic rebate, not being a service to which items 21992 or 21965 apply, where it can be demonstrated that there is a clinical need for anaesthesia (Not necessary in ASA RVG—covered by items CU999 and CV999)",90.2,4,0,Not necessary in ASA RVG—covered by items CU999 and CV999,TRUE,
+Pain / Pain Medicine Case Conferences,,AF070,2946,3,"Attendance by a consultant physician or specialist practising in the specialty of pain medicine, as a member of a case conference team, TO ORGANISE AND COORDINATE A COMMUNITY CASE CONFERENCE, with a multidisciplinary team of at least three other formal care providers of different disciplines - where the conference time is at least 15 minutes, but less than 30 minutes",160.8,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF080,2949,5,"- where the conference time is at least 30 minutes, but less than 45 minutes",241.35,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF090,2954,7,- where the conference time is at least 45 minutes,321.55,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF100,2958,2,"Attendance by a consultant physician or specialist practising in the specialty of pain medicine, as a member of a case conference team, TO PARTICIPATE IN A COMMUNITY CASE CONFERENCE (other than to organise and to coordinate the conference) with a multidisciplinary team of at least two other formal care providers of different disciplines - where the conference time is at least 15 minutes, but less than 30 minutes",115.5,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF110,2972,3,"- where the conference time is at least 30 minutes, but less than 45 minutes",184.25,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF120,2974,4,- where the conference time is at least 45 minutes,252.95,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF130,2978,3,"Attendance by a consultant physician or specialist practising in the speciality of pain medicine, as a member of a case conference team, TO ORGANISE AND COORDINATE A DISCHARGE CASE CONFERENCE with a multidisciplinary team of at least three other formal care providers of different disciplines - where the conference time is at least 15 minutes, but less than 30 minutes",160.8,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF140,2984,5,"- where the conference time is at least 30 minutes, but less than 45 minutes",241.35,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF150,2988,7,- where the conference time is at least 45 minutes,321.55,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF160,2992,2,"Attendance by a consultant physician or specialist practising in the speciality of pain medicine, as a member of a case conference team, TO PARTICIPATE IN A DISCHARGE CASE CONFERENCE with a multidisciplinary team of at least two other formal care providers of different disciplines - where the conference time is at least 15 minutes, but less than 30 minutes",115.5,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF170,2996,3,"- where the conference time is at least 30 minutes, but less than 45 minutes",184.25,0,0,,FALSE,
+Pain / Pain Medicine Case Conferences,,AF180,3000,4,- where the conference time is at least 45 minutes,252.95,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,AF010,2801,4,"PROFESSIONAL ATTENDANCE at consulting rooms or hospital by a consultant physician or specialist practising in the specialty of pain medicine, where the patient was referred to him or her by a medical practitioner - INITIAL attendance in a single course of treatment",174.5,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,,2799,,Initial professional attendance of 10 minutes or less in duration on a patient by a specialist or consultant physician practicing in the speciaist’s or consultant physician’s specialty of pain medicine if: (a) the attendance is by video conference (b) the patient is not an admitted patient (c) the patient: (i) is located both: (A) within a telehealth eligible area (B) at the time of attendance – at least 15kms by road from the specialist or physician; or (ii) is a care recipient in a residential care service; or (iii) is a patient of (A) an Aboriginal Medical Service; or (B) an Aboriginal Community Controlled Health Service for which a direction made under subsection 19(2) of the Act applies; and (d) no other initial consultation has taken place for a single course of treatment,,,,"*Due to changes to MBS specialist telehealth items, item 2799 is no longer available as of 1 January 2022",FALSE,
+Pain / Pain Medicine Consultations,,AF020,2806,2,each attendance subsequent to the first in a single course of treatment,87.3,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,,2814,,each minor attendance subsequent to the first in a single course of treatment,49.75,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,AF040,2824,5,"PROFESSIONAL ATTENDANCE at a place other than consulting rooms or hospital by a consultant physician or specialist practising in the specialty of pain medicine, where the patient was referred to him or her by a medical practitioner - INITIAL attendance in a single course of treatment",211.65,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,AF050,2832,3,each attendance subsequent to the first in a single course of treatment,128.05,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,,2840,,each minor attendance subsequent to the first in a single course of treatment,92.25,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,BM930,14209,3,INTRA-ARTERIAL INFUSION or retrograde intravenous perfusion of a sympatholytic agent,,,,"*Removed by MBS review taskforce, no longer available as of 1 March 2022",FALSE,
+Pain / Pain Medicine Consultations,,BM960,14218,3,"IMPLANTED INFUSION PUMP REFILLING OF RESERVOIR, with a therapeutic agent or agents, for infusion to the subarachnoid or epidural space, with or without reprogramming of a programmable pump, for the management of chronic intractable pain",111.6,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,BM970,14221,2,"LONG-TERM IMPLANTED DEVICE for delivery of therapeutic agents, accessing of, not being a service associated with a service to which Item BM500 applies",59.8,0,0,Item BM500 (MBS Item 13945) refers to the accessing of an implanted device for the delivery of a cytotoxic chemotherapeutic agent,FALSE,
+Pain / Pain Medicine Consultations,,LN045,39013,4,"INJECTION UNDER IMAGE INTENSIFICATION with one or more of contrast media, local anaesthetic or corticosteroid into one or more zygo-apophyseal or costo-transverse joints or one or more primary posterior rami of spinal nerves",124.3,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN410,39100,9,"INJECTION OF PRIMARY BRANCH OF TRIGEMINAL NERVE with alcohol, cortisone, phenol or similar substance",270.65,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN460,39115,3,"PERCUTANEOUS NEUROTOMY of posterior divisions (or rami) of spinal nerves by any method, including any associated spinal, epidural or regional nerve block (payable once only in a 30-day period)",,,,"*Removed by MBS review taskforce, no longer available as of 1 March 2022",FALSE,
+Pain / Pain Medicine Consultations,,LN470,39118,11,PERCUTANEOUS NEUROTOMY for facet joint denervation by radiofrequency probe or cryoprobe using radiological imaging control,373.2,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN500,39125,11,"Intrathecal or epidural SPINAL CATHETER, insertion or replacement of, and connection to a subcutaneous implanted infusion pump, for the management of chronic intractable pain",339.55,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN510,39126,14,"INFUSION PUMP, subcutaneous implantation or replacement of, and connection of the pump to an intrathecal or epidural catheter, and filling of reservoir with a therapeutic agent or agents, with or without programming the pump, for the management of chronic intractable pain",412.25,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN520,39127,22,"SUBCUTANEOUS RESERVOIR AND SPINAL CATHETER, insertion of, for the management of chronic intractable pain",539.65,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN530,39128,25,"INFUSION PUMP, subcutaneous implantation of, AND intrathecal or epidural SPINAL CATHETER, insertion of, and connection of pump to catheter and filling of reservoir with a therapeutic agent or agents, with or without programming of the pump, for the management of chronic intractable pain",751.75,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN540,39130,23,"EPIDURAL LEAD, percutaneous placement of, including intraoperative test stimulation, for the management of chronic intractable neuropathic pain from refractory angina pectoris, to a maximum of four leads",767.95,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN550,39131,5,"ELECTRODES, epidural or peripheral nerve, management of patient and adjustment or reprogramming of neurostimulator by a medical practitioner, for the management of chronic intractable neuropathic pain or pain from refractory angina pectoris—each day",145.6,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN560,39133,6,REMOVAL of subcutaneously implanted infusion pump or removal or repositioning of intrathecal or epidural SPINAL CATHETER for the management of chronic intractable pain,181.6,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN570,39134,13,"NEUROSTIMULATOR or RECEIVER, subcutaneous placement of, including placement and connection of extension wires to epidural or peripheral nerve electrodes, for the management of chronic intractable neuropathic pain or pain from refractory angina pectoris",387.95,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN575,39135,6,"NEUROSTIMULATOR or RECEIVER, that was inserted for the management of chronic intractable neuropathic pain or pain from refractory angina pectoris, removal of, performed in the operating theatre of a hospital",181.6,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN580,39136,6,"LEAD, epidural or peripheral nerve that was inserted for the management of chronic intractable neuropathic pain or pain from refractory angina pectoris, removal of, performed in the operating theatre of a hospital",181.6,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN420,,10,INTRATHECAL INJECTION of alcohol or phenol,,,,,FALSE,
+Pain / Pain Medicine Consultations,,LN583,39137,23,"LEAD, epidural or peripheral nerve, that was inserted for the management of chronic intractable neuropathic pain or pain from refractory angina pectoris, surgical repositioning to correct displacement or unsatisfactory positioning, including intraoperative test stimulation, not being a service to which LN540, LN587 or LN590 applies",689.65,0,0,Item LN590 (MBS Item 39139) refers to a surgical procedure involving laminectomy,FALSE,
+Pain / Pain Medicine Consultations,,LN587,39138,23,"PERIPHERAL NERVE LEAD, surgical placement of, including intraoperative test stimulation, for the management of chronic intractable neuropathic pain or pain from refractory angina pectoris, to a maximum of four leads",767.95,0,0,,FALSE,
+Pain / Pain Medicine Consultations,,LN600,39140,11,"EPIDURAL CATHETER, insertion of, under imaging control, with epidurogram and epidural therapeutic injection for lysis of adhesions",333.65,0,0,,FALSE,
+Pain Management,Pain Management,CV084,22042,1,"Introduction of a nerve block performed via a retrobulbar, peribulbar, or sub Tenon’s approach, or other complex eye block, when administered by an anaesthetist perioperatively",22.55,1,0,"* This item can be co-claimed with item 20142 (anaesthesia for lens surgery), when anaesthesia or sedation was also provided by the same anaesthetist. Item 22042 cannot be co-claimed with item 20142, 20144, 20145 and 20147 when a general anaesthetic is the primary anaesthetic approach.",FALSE,
+Pain Management,Pain Management,CV081,,4,"MAJOR NERVE BLOCK (proximal to the elbow or knee), including intercostal nerve block(s) or plexus block (specify type) to provide postoperative pain relief (not to be used in conjunction with items CV082 or CV083, or any item in the range CV200 to CV330)*",,,,"* Items in the range CV200 to CV330 are not to be used in conjunction with RVG anaesthesia items, including items CV081, CV082 and CV083.",FALSE,
+Pain Management,Pain Management,CV082,,2,"MINOR NERVE BLOCK (specify type) to provide postoperative pain relief (this does not include subcutaneous infiltration) (not to be used in conjunction with items CV081 or CV083, or any item in the range CV200 to CV330)*",,,,"* Items in the range CV200 to CV330 are not to be used in conjunction with RVG anaesthesia items, including items CV081, CV082 and CV083.",FALSE,
+Pain Management,Pain Management,CV083,,5,"MAJOR PERIPHERAL NERVE BLOCK, performed perioperatively, with the introduction of a catheter to allow continuous nerve blockade, to provide postoperative pain relief (not to be used in conjunction with items CV081 or CV082, or any item in the range CV200 to CV330)*",,,,"* Items in the range CV200 to CV330 are not to be used in conjunction with RVG anaesthesia items, including items CV081, CV082 and CV083.",FALSE,
+Time,Time (ASA/AMA),T0015,23010,1,00:01 HOURS TO 00:15 HOURS,22.55,1,0,,FALSE,
+Time,Time (ASA/AMA),T0030,23025,2,00:16 HOURS TO 00:30 HOURS,45.1,2,0,,FALSE,
+Time,Time (ASA/AMA),T0045,23035,3,00:31 HOURS TO 00:45 HOURS,67.65,3,0,,FALSE,
+Time,Time (ASA/AMA),T0100,23045,4,00:46 HOURS TO 01:00 HOURS,90.2,4,0,,FALSE,
+Time,Time (ASA/AMA),T0115,23055,5,01:01 HOURS TO 01:15 HOURS,112.75,5,0,,FALSE,
+Time,Time (ASA/AMA),T0130,23065,6,01:16 HOURS TO 01:30 HOURS,135.3,6,0,,FALSE,
+Time,Time (ASA/AMA),T0145,23075,7,01:31 HOURS TO 01:45 HOURS,157.85,7,0,,FALSE,
+Time,Time (ASA/AMA),T0200,23085,8,01:46 HOURS TO 02:00 HOURS,180.4,8,0,,FALSE,
+Time,Time (ASA/AMA),T0210,23091,9,02:01 HOURS TO 02:10 HOURS,202.95,9,0,,FALSE,
+Time,Time (ASA/AMA),T0220,23101,10,02:11 HOURS TO 02:20 HOURS,225.5,10,0,,FALSE,
+Time,Time (ASA/AMA),T0230,23111,11,02:21 HOURS TO 02:30 HOURS,248.05,11,0,,FALSE,
+Time,Time (ASA/AMA),T0240,23112,12,02:31 HOURS TO 02:40 HOURS,270.6,12,0,,FALSE,
+Time,Time (ASA/AMA),T0250,23113,13,02:41 HOURS TO 02:50 HOURS,293.15,13,0,,FALSE,
+Time,Time (ASA/AMA),T0300,23114,14,02:51 HOURS TO 03:00 HOURS,315.7,14,0,,FALSE,
+Time,Time (ASA/AMA),T0310,23115,15,03:01 HOURS TO 03:10 HOURS,338.25,15,0,,FALSE,
+Time,Time (ASA/AMA),T0320,23116,16,03:11 HOURS TO 03:20 HOURS,360.8,16,0,,FALSE,
+Time,Time (ASA/AMA),T0330,23117,17,03:21 HOURS TO 03:30 HOURS,383.35,17,0,,FALSE,
+Time,Time (ASA/AMA),T0340,23118,18,03:31 HOURS TO 03:40 HOURS,405.9,18,0,,FALSE,
+Time,Time (ASA/AMA),T0350,23119,19,03:41 HOURS TO 03:50 HOURS,428.45,19,0,,FALSE,
+Time,Time (ASA/AMA),T0400,23121,20,03:51 HOURS TO 04:00 HOURS,451,20,0,,FALSE,
+Time,Time (ASA/AMA),T0405,23170,21,04:01 HOURS TO 04:05 HOURS,473.55,21,0,,FALSE,
+Time,Time (ASA/AMA),T0410,23170,22,04:06 HOURS TO 04:10 HOURS,473.55,21,0,,FALSE,
+Time,Time (ASA/AMA),T0415,23180,23,04:11 HOURS TO 04:15 HOURS,496.1,22,0,,FALSE,
+Time,Time (ASA/AMA),T0420,23180,24,04:16 HOURS TO 04:20 HOURS,496.1,22,0,,FALSE,
+Time,Time (ASA/AMA),T0425,23190,25,04:21 HOURS TO 04:25 HOURS,518.65,23,0,,FALSE,
+Time,Time (ASA/AMA),T0430,23190,26,04:26 HOURS TO 04:30 HOURS,518.65,23,0,,FALSE,
+Time,Time (ASA/AMA),T0435,23200,27,04:31 HOURS TO 04:35 HOURS,541.2,24,0,,FALSE,
+Time,Time (ASA/AMA),T0440,23200,28,04:36 HOURS TO 04:40 HOURS,541.2,24,0,,FALSE,
+Time,Time (ASA/AMA),T0445,23210,29,04:41 HOURS TO 04:45 HOURS,563.75,25,0,,FALSE,
+Time,Time (ASA/AMA),T0450,23210,30,04:46 HOURS TO 04:50 HOURS,563.75,25,0,,FALSE,
+Time,Time (ASA/AMA),T0455,23220,31,04:51 HOURS TO 04:55 HOURS,586.3,26,0,,FALSE,
+Time,Time (ASA/AMA),T0500,23220,32,04:56 HOURS TO 05:00 HOURS,586.3,26,0,,FALSE,
+Time,Time (ASA/AMA),T0505,23230,33,05:01 HOURS TO 05:05 HOURS,608.85,27,0,,FALSE,
+Time,Time (ASA/AMA),T0510,23230,34,05:06 HOURS TO 05:10 HOURS,608.85,27,0,,FALSE,
+Time,Time (ASA/AMA),T0515,23240,35,05:11 HOURS TO 05:15 HOURS,631.4,28,0,,FALSE,
+Time,Time (ASA/AMA),T0520,23240,36,05:16 HOURS TO 05:20 HOURS,631.4,28,0,,FALSE,
+Time,Time (ASA/AMA),T0525,23250,37,05:21 HOURS TO 05:25 HOURS,653.95,29,0,,FALSE,
+Time,Time (ASA/AMA),T0530,23250,38,05:26 HOURS TO 05:30 HOURS,653.95,29,0,,FALSE,
+Time,Time (ASA/AMA),T0535,23260,39,05:31 HOURS TO 05:35 HOURS,676.5,30,0,,FALSE,
+Time,Time (ASA/AMA),T0540,23260,40,05:36 HOURS TO 05:40 HOURS,676.5,30,0,,FALSE,
+Time,Time (ASA/AMA),T0545,23270,41,05:41 HOURS TO 05:45 HOURS,699.05,31,0,,FALSE,
+Time,Time (ASA/AMA),T0550,23270,42,05:46 HOURS TO 05:50 HOURS,699.05,31,0,,FALSE,
+Time,Time (ASA/AMA),T0555,23280,43,05:51 HOURS TO 05:55 HOURS,721.6,32,0,,FALSE,
+Time,Time (ASA/AMA),T0600,23280,44,05:56 HOURS TO 06:00 HOURS,721.6,32,0,,FALSE,
+Time,Time (ASA/AMA),T0605,23290,45,06:01 HOURS TO 06:05 HOURS,744.15,33,0,,FALSE,
+Time,Time (ASA/AMA),T0610,23290,46,06:06 HOURS TO 06:10 HOURS,744.15,33,0,,FALSE,
+Time,Time (ASA/AMA),T0615,23300,47,06:11 HOURS TO 06:15 HOURS,766.7,34,0,,FALSE,
+Time,Time (ASA/AMA),T0620,23300,48,06:16 HOURS TO 06:20 HOURS,766.7,34,0,,FALSE,
+Time,Time (ASA/AMA),T0625,23310,49,06:21 HOURS TO 06:25 HOURS,789.25,35,0,,FALSE,
+Time,Time (ASA/AMA),T0630,23310,50,06:26 HOURS TO 06:30 HOURS,789.25,35,0,,FALSE,
+Time,Time (ASA/AMA),T0635,23320,51,06:31 HOURS TO 06:35 HOURS,811.8,36,0,,FALSE,
+Time,Time (ASA/AMA),T0640,23320,52,06:36 HOURS TO 06:40 HOURS,811.8,36,0,,FALSE,
+Time,Time (ASA/AMA),T0645,23330,53,06:41 HOURS TO 06:45 HOURS,834.35,37,0,,FALSE,
+Time,Time (ASA/AMA),T0650,23330,54,06:46 HOURS TO 06:50 HOURS,834.35,37,0,,FALSE,
+Time,Time (ASA/AMA),T0655,23340,55,06:51 HOURS TO 06:55 HOURS,856.9,38,0,,FALSE,
+Time,Time (ASA/AMA),T0700,23340,56,06:56 HOURS TO 07:00 HOURS,856.9,38,0,,FALSE,
+Time,Time (ASA/AMA),T0705,23350,57,07:01 HOURS TO 07:05 HOURS,879.45,39,0,,FALSE,
+Time,Time (ASA/AMA),T0710,23350,58,07:06 HOURS TO 07:10 HOURS,879.45,39,0,,FALSE,
+Time,Time (ASA/AMA),T0715,23360,59,07:11 HOURS TO 07:15 HOURS,902,40,0,,FALSE,
+Time,Time (ASA/AMA),T0720,23360,60,07:16 HOURS TO 07:20 HOURS,902,40,0,,FALSE,
+Time,Time (ASA/AMA),T0725,23370,61,07:21 HOURS TO 07:25 HOURS,924.55,41,0,,FALSE,
+Time,Time (ASA/AMA),T0730,23370,62,07:26 HOURS TO 07:30 HOURS,924.55,41,0,,FALSE,
+Time,Time (ASA/AMA),T0735,23380,63,07:31 HOURS TO 07:35 HOURS,947.1,42,0,,FALSE,
+Time,Time (ASA/AMA),T0740,23380,64,07:36 HOURS TO 07:40 HOURS,947.1,42,0,,FALSE,
+Time,Time (ASA/AMA),T0745,23390,65,07:41 HOURS TO 07:45 HOURS,969.65,43,0,,FALSE,
+Time,Time (ASA/AMA),T0750,23390,66,07:46 HOURS TO 07:50 HOURS,969.65,43,0,,FALSE,
+Time,Time (ASA/AMA),T0755,23400,67,07:51 HOURS TO 07:55 HOURS,992.2,44,0,,FALSE,
+Time,Time (ASA/AMA),T0800,23400,68,07:56 HOURS TO 08:00 HOURS,992.2,44,0,,FALSE,
+Time,Time (ASA/AMA),T0805,23410,69,08:01 HOURS TO 08:05 HOURS,1014.75,45,0,,FALSE,
+Time,Time (ASA/AMA),T0810,23410,70,08:06 HOURS TO 08:10 HOURS,1014.75,45,0,,FALSE,
+Time,Time (ASA/AMA),T0815,23420,71,08:11 HOURS TO 08:15 HOURS,1037.3,46,0,,FALSE,
+Time,Time (ASA/AMA),T0820,23420,72,08:16 HOURS TO 08:20 HOURS,1037.3,46,0,,FALSE,
+Time,Time (ASA/AMA),T0825,23430,73,08:21 HOURS TO 08:25 HOURS,1059.85,47,0,,FALSE,
+Time,Time (ASA/AMA),T0830,23430,74,08:26 HOURS TO 08:30 HOURS,1059.85,47,0,,FALSE,
+Time,Time (ASA/AMA),T0835,23440,75,08:31 HOURS TO 08:35 HOURS,1082.4,48,0,,FALSE,
+Time,Time (ASA/AMA),T0840,23440,76,08:36 HOURS TO 08:40 HOURS,1082.4,48,0,,FALSE,
+Time,Time (ASA/AMA),T0845,23450,77,08:41 HOURS TO 08:45 HOURS,1104.95,49,0,,FALSE,
+Time,Time (ASA/AMA),T0850,23450,78,08:46 HOURS TO 08:50 HOURS,1104.95,49,0,,FALSE,
+Time,Time (ASA/AMA),T0855,23460,79,08:51 HOURS TO 08:55 HOURS,1127.5,50,0,,FALSE,
+Time,Time (ASA/AMA),T0900,23460,80,08:56 HOURS TO 09:00 HOURS,1127.5,50,0,,FALSE,
+Time,Time (ASA/AMA),T0905,23470,81,09:01 HOURS TO 09:05 HOURS,1150.05,51,0,,FALSE,
+Time,Time (ASA/AMA),T0910,23470,82,09:06 HOURS TO 09:10 HOURS,1150.05,51,0,,FALSE,
+Time,Time (ASA/AMA),T0915,23480,83,09:11 HOURS TO 09:15 HOURS,1172.6,52,0,,FALSE,
+Time,Time (ASA/AMA),T0920,23480,84,09:16 HOURS TO 09:20 HOURS,1172.6,52,0,,FALSE,
+Time,Time (ASA/AMA),T0925,23490,85,09:21 HOURS TO 09:25 HOURS,1195.15,53,0,,FALSE,
+Time,Time (ASA/AMA),T0930,23490,86,09:26 HOURS TO 09:30 HOURS,1195.15,53,0,,FALSE,
+Time,Time (ASA/AMA),T0935,23500,87,09:31 HOURS TO 09:35 HOURS,1217.7,54,0,,FALSE,
+Time,Time (ASA/AMA),T0940,23500,88,09:36 HOURS TO 09:40 HOURS,1217.7,54,0,,FALSE,
+Time,Time (ASA/AMA),T0945,23510,89,09:41 HOURS TO 09:45 HOURS,1240.25,55,0,,FALSE,
+Time,Time (ASA/AMA),T0950,23510,90,09:46 HOURS TO 09:50 HOURS,1240.25,55,0,,FALSE,
+Time,Time (ASA/AMA),T0955,23520,91,09:51 HOURS TO 09:55 HOURS,1262.8,56,0,,FALSE,
+Time,Time (ASA/AMA),T1000,23520,92,09:56 HOURS TO 10:00 HOURS,1262.8,56,0,,FALSE,
+Time,Time (ASA/AMA),T1005,23530,93,10:01 HOURS TO 10:05 HOURS,1285.35,57,0,,FALSE,
+Time,Time (ASA/AMA),T1010,23530,94,10:06 HOURS TO 10:10 HOURS,1285.35,57,0,,FALSE,
+Time,Time (ASA/AMA),T1015,23540,95,10:11 HOURS TO 10:15 HOURS,1307.9,58,0,,FALSE,
+Time,Time (ASA/AMA),T1020,23540,96,10:16 HOURS TO 10:20 HOURS,1307.9,58,0,,FALSE,
+Time,Time (ASA/AMA),T1025,23550,97,10:21 HOURS TO 10:25 HOURS,1330.45,59,0,,FALSE,
+Time,Time (ASA/AMA),T1030,23550,98,10:26 HOURS TO 10:30 HOURS,1330.45,59,0,,FALSE,
+Time,Time (ASA/AMA),T1035,23560,99,10:31 HOURS TO 10:35 HOURS,1353,60,0,,FALSE,
+Time,Time (ASA/AMA),T1040,23560,100,10:36 HOURS TO 10:40 HOURS,1353,60,0,,FALSE,
+Time,Time (ASA/AMA),T1045,23570,101,10:41 HOURS TO 10:45 HOURS,1375.55,61,0,,FALSE,
+Time,Time (ASA/AMA),T1050,23570,102,10:46 HOURS TO 10:50 HOURS,1375.55,61,0,,FALSE,
+Time,Time (ASA/AMA),T1055,23580,103,10:51 HOURS TO 10:55 HOURS,1398.1,62,0,,FALSE,
+Time,Time (ASA/AMA),T1100,23580,104,10:56 HOURS TO 11:00 HOURS,1398.1,62,0,,FALSE,
+Time,Time (ASA/AMA),T1105,23590,105,11:01 HOURS TO 11:05 HOURS,1420.65,63,0,,FALSE,
+Time,Time (ASA/AMA),T1110,23590,106,11:06 HOURS TO 11:10 HOURS,1420.65,63,0,,FALSE,
+Time,Time (ASA/AMA),T1115,23600,107,11:11 HOURS TO 11:15 HOURS,1443.2,64,0,,FALSE,
+Time,Time (ASA/AMA),T1120,23600,108,11:16 HOURS TO 11:20 HOURS,1443.2,64,0,,FALSE,
+Time,Time (ASA/AMA),T1125,23610,109,11:21 HOURS TO 11:25 HOURS,1465.75,65,0,,FALSE,
+Time,Time (ASA/AMA),T1130,23610,110,11:26 HOURS TO 11:30 HOURS,1465.75,65,0,,FALSE,
+Time,Time (ASA/AMA),T1135,23620,111,11:31 HOURS TO 11:35 HOURS,1488.3,66,0,,FALSE,
+Time,Time (ASA/AMA),T1140,23620,112,11:36 HOURS TO 11:40 HOURS,1488.3,66,0,,FALSE,
+Time,Time (ASA/AMA),T1145,23630,113,11:41 HOURS TO 11:45 HOURS,1510.85,67,0,,FALSE,
+Time,Time (ASA/AMA),T1150,23630,114,11:46 HOURS TO 11:50 HOURS,1510.85,67,0,,FALSE,
+Time,Time (ASA/AMA),T1155,23640,115,11:51 HOURS TO 11:55 HOURS,1533.4,68,0,,FALSE,
+Time,Time (ASA/AMA),T1200,23640,116,11:56 HOURS TO 12:00 HOURS,1533.4,68,0,,FALSE,
+Time,Time (ASA/AMA),T1205,23650,117,12:01 HOURS TO 12:05 HOURS,1555.95,69,0,,FALSE,
+Time,Time (ASA/AMA),T1210,23650,118,12:06 HOURS TO 12:10 HOURS,1555.95,69,0,,FALSE,
+Time,Time (ASA/AMA),T1215,23660,119,12:11 HOURS TO 12:15 HOURS,1578.5,70,0,,FALSE,
+Time,Time (ASA/AMA),T1220,23660,120,12:16 HOURS TO 12:20 HOURS,1578.5,70,0,,FALSE,
+Time,Time (ASA/AMA),T1225,23670,121,12:21 HOURS TO 12:25 HOURS,1601.05,71,0,,FALSE,
+Time,Time (ASA/AMA),T1230,23670,122,12:26 HOURS TO 12:30 HOURS,1601.05,71,0,,FALSE,
+Time,Time (ASA/AMA),T1235,23680,123,12:31 HOURS TO 12:35 HOURS,1623.6,72,0,,FALSE,
+Time,Time (ASA/AMA),T1240,23680,124,12:36 HOURS TO 12:40 HOURS,1623.6,72,0,,FALSE,
+Time,Time (ASA/AMA),T1245,23690,125,12:41 HOURS TO 12:45 HOURS,1646.15,73,0,,FALSE,
+Time,Time (ASA/AMA),T1250,23690,126,12:46 HOURS TO 12:50 HOURS,1646.15,73,0,,FALSE,
+Time,Time (ASA/AMA),T1255,23700,127,12:51 HOURS TO 12:55 HOURS,1668.7,74,0,,FALSE,
+Time,Time (ASA/AMA),T1300,23700,128,12:56 HOURS TO 13:00 HOURS,1668.7,74,0,,FALSE,
+Time,Time (ASA/AMA),T1305,23710,129,13:01 HOURS TO 13:05 HOURS,1691.25,75,0,,FALSE,
+Time,Time (ASA/AMA),T1310,23710,130,13:06 HOURS TO 13:10 HOURS,1691.25,75,0,,FALSE,
+Time,Time (ASA/AMA),T1315,23720,131,13:11 HOURS TO 13:15 HOURS,1713.8,76,0,,FALSE,
+Time,Time (ASA/AMA),T1320,23720,132,13:16 HOURS TO 13:20 HOURS,1713.8,76,0,,FALSE,
+Time,Time (ASA/AMA),T1325,23730,133,13:21 HOURS TO 13:25 HOURS,1736.35,77,0,,FALSE,
+Time,Time (ASA/AMA),T1330,23730,134,13:26 HOURS TO 13:30 HOURS,1736.35,77,0,,FALSE,
+Time,Time (ASA/AMA),T1335,23740,135,13:31 HOURS TO 13:35 HOURS,1758.9,78,0,,FALSE,
+Time,Time (ASA/AMA),T1340,23740,136,13:36 HOURS TO 13:40 HOURS,1758.9,78,0,,FALSE,
+Time,Time (ASA/AMA),T1345,23750,137,13:41 HOURS TO 13:45 HOURS,1781.45,79,0,,FALSE,
+Time,Time (ASA/AMA),T1350,23750,138,13:46 HOURS TO 13:50 HOURS,1781.45,79,0,,FALSE,
+Time,Time (ASA/AMA),T1355,23760,139,13:51 HOURS TO 13:55 HOURS,1804,80,0,,FALSE,
+Time,Time (ASA/AMA),T1400,23760,140,13:56 HOURS TO 14:00 HOURS,1804,80,0,,FALSE,
+Time,Time (ASA/AMA),T1405,23770,141,14:01 HOURS TO 14:05 HOURS,1826.55,81,0,,FALSE,
+Time,Time (ASA/AMA),T1410,23770,142,14:06 HOURS TO 14:10 HOURS,1826.55,81,0,,FALSE,
+Time,Time (ASA/AMA),T1415,23780,143,14:11 HOURS TO 14:15 HOURS,1849.1,82,0,,FALSE,
+Time,Time (ASA/AMA),T1420,23780,144,14:16 HOURS TO 14:20 HOURS,1849.1,82,0,,FALSE,
+Time,Time (ASA/AMA),T1425,23790,145,14:21 HOURS TO 14:25 HOURS,1871.65,83,0,,FALSE,
+Time,Time (ASA/AMA),T1430,23790,146,14:26 HOURS TO 14:30 HOURS,1871.65,83,0,,FALSE,
+Time,Time (ASA/AMA),T1435,23800,147,14:31 HOURS TO 14:35 HOURS,1894.2,84,0,,FALSE,
+Time,Time (ASA/AMA),T1440,23800,148,14:36 HOURS TO 14:40 HOURS,1894.2,84,0,,FALSE,
+Time,Time (ASA/AMA),T1445,23810,149,14:41 HOURS TO 14:45 HOURS,1916.75,85,0,,FALSE,
+Time,Time (ASA/AMA),T1450,23810,150,14:46 HOURS TO 14:50 HOURS,1916.75,85,0,,FALSE,
+Time,Time (ASA/AMA),T1455,23820,151,14:51 HOURS TO 14:55 HOURS,1939.3,86,0,,FALSE,
+Time,Time (ASA/AMA),T1500,23820,152,14:56 HOURS TO 15:00 HOURS,1939.3,86,0,,FALSE,
+Time,Time (ASA/AMA),T1505,23830,153,15:01 HOURS TO 15:05 HOURS,1961.85,87,0,,FALSE,
+Time,Time (ASA/AMA),T1510,23830,154,15:06 HOURS TO 15:10 HOURS,1961.85,87,0,,FALSE,
+Time,Time (ASA/AMA),T1515,23840,155,15:11 HOURS TO 15:15 HOURS,1984.4,88,0,,FALSE,
+Time,Time (ASA/AMA),T1520,23840,156,15:16 HOURS TO 15:20 HOURS,1984.4,88,0,,FALSE,
+Time,Time (ASA/AMA),T1525,23850,157,15:21 HOURS TO 15:25 HOURS,2006.95,89,0,,FALSE,
+Time,Time (ASA/AMA),T1530,23850,158,15:26 HOURS TO 15:30 HOURS,2006.95,89,0,,FALSE,
+Time,Time (ASA/AMA),T1535,23860,159,15:31 HOURS TO 15:35 HOURS,2029.5,90,0,,FALSE,
+Time,Time (ASA/AMA),T1540,23860,160,15:36 HOURS TO 15:40 HOURS,2029.5,90,0,,FALSE,
+Time,Time (ASA/AMA),T1545,23870,161,15:41 HOURS TO 15:45 HOURS,2052.05,91,0,,FALSE,
+Time,Time (ASA/AMA),T1550,23870,162,15:46 HOURS TO 15:50 HOURS,2052.05,91,0,,FALSE,
+Time,Time (ASA/AMA),T1555,23880,163,15:51 HOURS TO 15:55 HOURS,2074.6,92,0,,FALSE,
+Time,Time (ASA/AMA),T1600,23880,164,15:56 HOURS TO 16:00 HOURS,2074.6,92,0,,FALSE,
+Time,Time (ASA/AMA),T1605,23890,165,16:01 HOURS TO 16:05 HOURS,2097.15,93,0,,FALSE,
+Time,Time (ASA/AMA),T1610,23890,166,16:06 HOURS TO 16:10 HOURS,2097.15,93,0,,FALSE,
+Time,Time (ASA/AMA),T1615,23900,167,16:11 HOURS TO 16:15 HOURS,2119.7,94,0,,FALSE,
+Time,Time (ASA/AMA),T1620,23900,168,16:16 HOURS TO 16:20 HOURS,2119.7,94,0,,FALSE,
+Time,Time (ASA/AMA),T1625,23910,169,16:21 HOURS TO 16:25 HOURS,2142.25,95,0,,FALSE,
+Time,Time (ASA/AMA),T1630,23910,170,16:26 HOURS TO 16:30 HOURS,2142.25,95,0,,FALSE,
+Time,Time (ASA/AMA),T1635,23920,171,16:31 HOURS TO 16:35 HOURS,2164.8,96,0,,FALSE,
+Time,Time (ASA/AMA),T1640,23920,172,16:36 HOURS TO 16:40 HOURS,2164.8,96,0,,FALSE,
+Time,Time (ASA/AMA),T1645,23930,173,16:41 HOURS TO 16:45 HOURS,2187.35,97,0,,FALSE,
+Time,Time (ASA/AMA),T1650,23930,174,16:46 HOURS TO 16:50 HOURS,2187.35,97,0,,FALSE,
+Time,Time (ASA/AMA),T1655,23940,175,16:51 HOURS TO 16:55 HOURS,2209.9,98,0,,FALSE,
+Time,Time (ASA/AMA),T1700,23940,176,16:56 HOURS TO 17:00 HOURS,2209.9,98,0,,FALSE,
+Time,Time (ASA/AMA),T1705,23950,177,17:01 HOURS TO 17:05 HOURS,2232.45,99,0,,FALSE,
+Time,Time (ASA/AMA),T1710,23950,178,17:06 HOURS TO 17:10 HOURS,2232.45,99,0,,FALSE,
+Time,Time (ASA/AMA),T1715,23960,179,17:11 HOURS TO 17:15 HOURS,2255,100,0,,FALSE,
+Time,Time (ASA/AMA),T1720,23960,180,17:16 HOURS TO 17:20 HOURS,2255,100,0,,FALSE,
+Time,Time (ASA/AMA),T1725,23970,181,17:21 HOURS TO 17:25 HOURS,2277.55,101,0,,FALSE,
+Time,Time (ASA/AMA),T1730,23970,182,17:26 HOURS TO 17:30 HOURS,2277.55,101,0,,FALSE,
+Time,Time (ASA/AMA),T1735,23980,183,17:31 HOURS TO 17:35 HOURS,2300.1,102,0,,FALSE,
+Time,Time (ASA/AMA),T1740,23980,184,17:36 HOURS TO 17:40 HOURS,2300.1,102,0,,FALSE,
+Time,Time (ASA/AMA),T1745,23990,185,17:41 HOURS TO 17:45 HOURS,2322.65,103,0,,FALSE,
+Time,Time (ASA/AMA),T1750,23990,186,17:46 HOURS TO 17:50 HOURS,2322.65,103,0,,FALSE,
+Time,Time (ASA/AMA),T1755,24100,187,17:51 HOURS TO 17:55 HOURS,2345.2,104,0,,FALSE,
+Time,Time (ASA/AMA),T1800,24100,188,17:56 HOURS TO 18:00 HOURS,2345.2,104,0,,FALSE,
+Time,Time (ASA/AMA),T1805,24101,189,18:01 HOURS TO 18:05 HOURS,2367.75,105,0,,FALSE,
+Time,Time (ASA/AMA),T1810,24101,190,18:06 HOURS TO 18:10 HOURS,2367.75,105,0,,FALSE,
+Time,Time (ASA/AMA),T1815,24102,191,18:11 HOURS TO 18:15 HOURS,2390.3,106,0,,FALSE,
+Time,Time (ASA/AMA),T1820,24102,192,18:16 HOURS TO 18:20 HOURS,2390.3,106,0,,FALSE,
+Time,Time (ASA/AMA),T1825,24103,193,18:21 HOURS TO 18:25 HOURS,2412.85,107,0,,FALSE,
+Time,Time (ASA/AMA),T1830,24103,194,18:26 HOURS TO 18:30 HOURS,2412.85,107,0,,FALSE,
+Time,Time (ASA/AMA),T1835,24104,195,18:31 HOURS TO 18:35 HOURS,2435.4,108,0,,FALSE,
+Time,Time (ASA/AMA),T1840,24104,196,18:36 HOURS TO 18:40 HOURS,2435.4,108,0,,FALSE,
+Time,Time (ASA/AMA),T1845,24105,197,18:41 HOURS TO 18:45 HOURS,2457.95,109,0,,FALSE,
+Time,Time (ASA/AMA),T1850,24105,198,18:46 HOURS TO 18:50 HOURS,2457.95,109,0,,FALSE,
+Time,Time (ASA/AMA),T1855,24106,199,18:51 HOURS TO 18:55 HOURS,2480.5,110,0,,FALSE,
+Time,Time (ASA/AMA),T1900,24106,200,18:56 HOURS TO 19:00 HOURS,2480.5,110,0,,FALSE,
+Time,Time (ASA/AMA),T1905,24107,201,19:01 HOURS TO 19:05 HOURS,2503.05,111,0,,FALSE,
+Time,Time (ASA/AMA),T1910,24107,202,19:06 HOURS TO 19:10 HOURS,2503.05,111,0,,FALSE,
+Time,Time (ASA/AMA),T1915,24108,203,19:11 HOURS TO 19:15 HOURS,2525.6,112,0,,FALSE,
+Time,Time (ASA/AMA),T1920,24108,204,19:16 HOURS TO 19:20 HOURS,2525.6,112,0,,FALSE,
+Time,Time (ASA/AMA),T1925,24109,205,19:21 HOURS TO 19:25 HOURS,2548.15,113,0,,FALSE,
+Time,Time (ASA/AMA),T1930,24109,206,19:26 HOURS TO 19:30 HOURS,2548.15,113,0,,FALSE,
+Time,Time (ASA/AMA),T1935,24110,207,19:31 HOURS TO 19:35 HOURS,2570.7,114,0,,FALSE,
+Time,Time (ASA/AMA),T1940,24110,208,19:36 HOURS TO 19:40 HOURS,2570.7,114,0,,FALSE,
+Time,Time (ASA/AMA),T1945,24111,209,19:41 HOURS TO 19:45 HOURS,2593.25,115,0,,FALSE,
+Time,Time (ASA/AMA),T1950,24111,210,19:46 HOURS TO 19:50 HOURS,2593.25,115,0,,FALSE,
+Time,Time (ASA/AMA),T1955,24112,211,19:51 HOURS TO 19:55 HOURS,2615.8,116,0,,FALSE,
+Time,Time (ASA/AMA),T2000,24112,212,19:56 HOURS TO 20:00 HOURS,2615.8,116,0,,FALSE,
+Time,Time (ASA/AMA),T2005,24113,213,20:01 HOURS TO 20:05 HOURS,2638.35,117,0,,FALSE,
+Time,Time (ASA/AMA),T2010,24113,214,20:06 HOURS TO 20:10 HOURS,2638.35,117,0,,FALSE,
+Time,Time (ASA/AMA),T2015,24114,215,20:11 HOURS TO 20:15 HOURS,2660.9,118,0,,FALSE,
+Time,Time (ASA/AMA),T2020,24114,216,20:16 HOURS TO 20:20 HOURS,2660.9,118,0,,FALSE,
+Time,Time (ASA/AMA),T2025,24115,217,20:21 HOURS TO 20:25 HOURS,2683.45,119,0,,FALSE,
+Time,Time (ASA/AMA),T2030,24115,218,20:26 HOURS TO 20:30 HOURS,2683.45,119,0,,FALSE,
+Time,Time (ASA/AMA),T2035,24116,219,20:31 HOURS TO 20:35 HOURS,2706,120,0,,FALSE,
+Time,Time (ASA/AMA),T2040,24116,220,20:36 HOURS TO 20:40 HOURS,2706,120,0,,FALSE,
+Time,Time (ASA/AMA),T2045,24117,221,20:41 HOURS TO 20:45 HOURS,2728.55,121,0,,FALSE,
+Time,Time (ASA/AMA),T2050,24117,222,20:46 HOURS TO 20:50 HOURS,2728.55,121,0,,FALSE,
+Time,Time (ASA/AMA),T2055,24118,223,20:51 HOURS TO 20:55 HOURS,2751.1,122,0,,FALSE,
+Time,Time (ASA/AMA),T2100,24118,224,20:56 HOURS TO 21:00 HOURS,2751.1,122,0,,FALSE,
+Time,Time (ASA/AMA),T2105,24119,225,21:01 HOURS TO 21:05 HOURS,2773.65,123,0,,FALSE,
+Time,Time (ASA/AMA),T2110,24119,226,21:06 HOURS TO 21:10 HOURS,2773.65,123,0,,FALSE,
+Time,Time (ASA/AMA),T2115,24120,227,21:11 HOURS TO 21:15 HOURS,2796.2,124,0,,FALSE,
+Time,Time (ASA/AMA),T2120,24120,228,21:16 HOURS TO 21:20 HOURS,2796.2,124,0,,FALSE,
+Time,Time (ASA/AMA),T2125,24121,229,21:21 HOURS TO 21:25 HOURS,2818.75,125,0,,FALSE,
+Time,Time (ASA/AMA),T2130,24121,230,21:26 HOURS TO 21:30 HOURS,2818.75,125,0,,FALSE,
+Time,Time (ASA/AMA),T2135,24122,231,21:31 HOURS TO 21:35 HOURS,2841.3,126,0,,FALSE,
+Time,Time (ASA/AMA),T2140,24122,232,21:36 HOURS TO 21:40 HOURS,2841.3,126,0,,FALSE,
+Time,Time (ASA/AMA),T2145,24123,233,21:41 HOURS TO 21:45 HOURS,2863.85,127,0,,FALSE,
+Time,Time (ASA/AMA),T2150,24123,234,21:46 HOURS TO 21:50 HOURS,2863.85,127,0,,FALSE,
+Time,Time (ASA/AMA),T2155,24124,235,21:51 HOURS TO 21:55 HOURS,2886.4,128,0,,FALSE,
+Time,Time (ASA/AMA),T2200,24124,236,21:56 HOURS TO 22:00 HOURS,2886.4,128,0,,FALSE,
+Time,Time (ASA/AMA),T2205,24125,237,22:01 HOURS TO 22:05 HOURS,2908.95,129,0,,FALSE,
+Time,Time (ASA/AMA),T2210,24125,238,22:06 HOURS TO 22:10 HOURS,2908.95,129,0,,FALSE,
+Time,Time (ASA/AMA),T2215,24126,239,22:11 HOURS TO 22:15 HOURS,2931.5,130,0,,FALSE,
+Time,Time (ASA/AMA),T2220,24126,240,22:16 HOURS TO 22:20 HOURS,2931.5,130,0,,FALSE,
+Time,Time (ASA/AMA),T2225,24127,241,22:21 HOURS TO 22:25 HOURS,2954.05,131,0,,FALSE,
+Time,Time (ASA/AMA),T2230,24127,242,22:26 HOURS TO 22:30 HOURS,2954.05,131,0,,FALSE,
+Time,Time (ASA/AMA),T2235,24128,243,22:31 HOURS TO 22:35 HOURS,2976.6,132,0,,FALSE,
+Time,Time (ASA/AMA),T2240,24128,244,22:36 HOURS TO 22:40 HOURS,2976.6,132,0,,FALSE,
+Time,Time (ASA/AMA),T2245,24129,245,22:41 HOURS TO 22:45 HOURS,2999.15,133,0,,FALSE,
+Time,Time (ASA/AMA),T2250,24129,246,22:46 HOURS TO 22:50 HOURS,2999.15,133,0,,FALSE,
+Time,Time (ASA/AMA),T2255,24130,247,22:51 HOURS TO 22:55 HOURS,3021.7,134,0,,FALSE,
+Time,Time (ASA/AMA),T2300,24130,248,22:56 HOURS TO 23:00 HOURS,3021.7,134,0,,FALSE,
+Time,Time (ASA/AMA),T2305,24131,249,23:01 HOURS TO 23:05 HOURS,3044.25,135,0,,FALSE,
+Time,Time (ASA/AMA),T2310,24131,250,23:06 HOURS TO 23:10 HOURS,3044.25,135,0,,FALSE,
+Time,Time (ASA/AMA),T2315,24132,251,23:11 HOURS TO 23:15 HOURS,3066.8,136,0,,FALSE,
+Time,Time (ASA/AMA),T2320,24132,252,23:16 HOURS TO 23:20 HOURS,3066.8,136,0,,FALSE,
+Time,Time (ASA/AMA),T2325,24133,253,23:21 HOURS TO 23:25 HOURS,3089.35,137,0,,FALSE,
+Time,Time (ASA/AMA),T2330,24133,254,23:26 HOURS TO 23:30 HOURS,3089.35,137,0,,FALSE,
+Time,Time (ASA/AMA),T2335,24134,255,23:31 HOURS TO 23:35 HOURS,3111.9,138,0,,FALSE,
+Time,Time (ASA/AMA),T2340,24134,256,23:36 HOURS TO 23:40 HOURS,3111.9,138,0,,FALSE,
+Time,Time (ASA/AMA),T2345,24135,257,23:41 HOURS TO 23:45 HOURS,3134.45,139,0,,FALSE,
+Time,Time (ASA/AMA),T2350,24135,258,23:46 HOURS TO 23:50 HOURS,3134.45,139,0,,FALSE,
+Time,Time (ASA/AMA),T2355,24136,259,23:51 HOURS TO 23:55 HOURS,3157,140,0,,FALSE,
+Time,Time (ASA/AMA),T2400,24136,260,23:56 HOURS TO 24:00 HOURS,3157,140,0,,FALSE,
